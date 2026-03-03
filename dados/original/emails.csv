@@ -1,0 +1,301 @@
+id_email,email,data_envio,campanha,status
+1,contato1@yahoo.com,2024-11-03,Promoção Black Friday,Clique
+2,contato2@gmail.com,2024-04-17,Promoção Black Friday,Aberto
+3,contato3@gmail.com,2024-01-28,Promoção Inverno,Clique
+4,contato4@yahoo.com,2024-04-14,Promoção Black Friday,Clique
+5,contato5@yahoo.com,2024-05-17,Promoção Natal,Aberto
+6,contato6@hotmail.com,2024-07-03,Promoção Verão,Aberto
+7,contato7@yahoo.com,2024-02-17,Promoção Natal,Clique
+8,contato8@hotmail.com,2024-09-25,Promoção Black Friday,Enviado
+9,contato9@yahoo.com,2024-09-01,Promoção Inverno,Enviado
+10,contato10@hotmail.com,2024-11-16,Promoção Inverno,Enviado
+11,contato11@hotmail.com,2024-06-07,Promoção Natal,Clique
+12,contato12@gmail.com,2024-10-06,Promoção Natal,Aberto
+13,contato13@gmail.com,2024-02-22,Promoção Verão,Enviado
+14,contato14@yahoo.com,2024-02-28,Promoção Inverno,Aberto
+15,contato15@gmail.com,2024-10-10,Promoção Black Friday,Enviado
+16,contato16@hotmail.com,2024-09-05,Promoção Natal,Spam
+17,contato17@hotmail.com,2024-10-19,Promoção Inverno,Aberto
+18,contato18@yahoo.com,2024-02-20,Promoção Natal,Aberto
+19,contato19@hotmail.com,2024-12-01,Promoção Inverno,Enviado
+20,contato20@gmail.com,2024-04-16,Promoção Natal,Spam
+21,contato21@yahoo.com,2024-07-26,Promoção Inverno,Enviado
+22,contato22@yahoo.com,2024-02-01,Promoção Natal,Aberto
+23,contato23@gmail.com,2024-01-20,Promoção Inverno,Enviado
+24,contato24@yahoo.com,2024-11-12,Promoção Verão,Spam
+25,contato25@gmail.com,2024-03-09,Promoção Inverno,Spam
+26,contato26@hotmail.com,2024-10-05,Promoção Inverno,Clique
+27,contato27@hotmail.com,2024-04-11,Promoção Verão,Enviado
+28,contato28@hotmail.com,2024-09-16,Promoção Verão,Clique
+29,contato29@gmail.com,2024-12-07,Promoção Verão,Enviado
+30,contato30@yahoo.com,2024-10-08,Promoção Black Friday,Enviado
+31,contato31@yahoo.com,2024-10-18,Promoção Natal,Clique
+32,contato32@yahoo.com,2024-04-27,Promoção Black Friday,Aberto
+33,contato33@hotmail.com,2024-07-17,Promoção Natal,Aberto
+34,contato34@gmail.com,2024-09-24,Promoção Verão,Spam
+35,contato35@yahoo.com,2024-02-01,Promoção Black Friday,Aberto
+36,contato36@hotmail.com,2024-11-10,Promoção Inverno,Clique
+37,contato37@yahoo.com,2024-04-09,Promoção Verão,Spam
+38,contato38@yahoo.com,2024-10-20,Promoção Natal,Enviado
+39,contato39@hotmail.com,2024-07-20,Promoção Inverno,Clique
+40,contato40@hotmail.com,2024-11-01,Promoção Inverno,Enviado
+41,contato41@hotmail.com,2024-12-10,Promoção Natal,Aberto
+42,contato42@yahoo.com,2024-04-20,Promoção Verão,Enviado
+43,contato43@gmail.com,2024-06-13,Promoção Inverno,Spam
+44,contato44@yahoo.com,2024-10-23,Promoção Black Friday,Enviado
+45,contato45@gmail.com,2024-04-21,Promoção Natal,Spam
+46,contato46@yahoo.com,2024-03-12,Promoção Inverno,Spam
+47,contato47@gmail.com,2024-09-26,Promoção Verão,Aberto
+48,contato48@gmail.com,2024-08-27,Promoção Verão,Aberto
+49,contato49@yahoo.com,2024-06-03,Promoção Natal,Enviado
+50,contato50@yahoo.com,2024-08-21,Promoção Natal,Enviado
+51,contato51@hotmail.com,2024-11-12,Promoção Inverno,Enviado
+52,contato52@hotmail.com,2024-06-12,Promoção Black Friday,Spam
+53,contato53@hotmail.com,2024-10-08,Promoção Verão,Spam
+54,contato54@yahoo.com,2024-02-05,Promoção Inverno,Spam
+55,contato55@gmail.com,2024-11-05,Promoção Natal,Clique
+56,contato56@yahoo.com,2024-04-16,Promoção Inverno,Spam
+57,contato57@hotmail.com,2024-04-12,Promoção Verão,Clique
+58,contato58@hotmail.com,2024-11-23,Promoção Verão,Spam
+59,contato59@hotmail.com,2024-04-04,Promoção Inverno,Clique
+60,contato60@hotmail.com,2024-11-21,Promoção Inverno,Clique
+61,contato61@yahoo.com,2024-12-25,Promoção Verão,Aberto
+62,contato62@gmail.com,2024-06-23,Promoção Inverno,Enviado
+63,contato63@yahoo.com,2024-03-14,Promoção Verão,Aberto
+64,contato64@hotmail.com,2024-07-02,Promoção Black Friday,Spam
+65,contato65@hotmail.com,2024-01-19,Promoção Black Friday,Spam
+66,contato66@gmail.com,2024-01-20,Promoção Black Friday,Enviado
+67,contato67@hotmail.com,2024-10-03,Promoção Inverno,Spam
+68,contato68@yahoo.com,2024-07-12,Promoção Black Friday,Enviado
+69,contato69@hotmail.com,2024-01-14,Promoção Inverno,Aberto
+70,contato70@hotmail.com,2024-03-10,Promoção Verão,Spam
+71,contato71@hotmail.com,2024-08-26,Promoção Verão,Enviado
+72,contato72@gmail.com,2024-10-17,Promoção Black Friday,Aberto
+73,contato73@yahoo.com,2024-03-20,Promoção Black Friday,Aberto
+74,contato74@yahoo.com,2024-12-07,Promoção Verão,Clique
+75,contato75@gmail.com,2024-01-15,Promoção Inverno,Enviado
+76,contato76@yahoo.com,2024-01-03,Promoção Natal,Enviado
+77,contato77@hotmail.com,2024-06-15,Promoção Verão,Spam
+78,contato78@hotmail.com,2024-10-02,Promoção Inverno,Enviado
+79,contato79@yahoo.com,2024-10-14,Promoção Natal,Clique
+80,contato80@gmail.com,2024-12-26,Promoção Black Friday,Spam
+81,contato81@gmail.com,2024-02-20,Promoção Inverno,Clique
+82,contato82@gmail.com,2024-03-12,Promoção Verão,Clique
+83,contato83@hotmail.com,2024-09-01,Promoção Verão,Enviado
+84,contato84@hotmail.com,2024-08-07,Promoção Verão,Aberto
+85,contato85@gmail.com,2024-08-24,Promoção Verão,Spam
+86,contato86@hotmail.com,2024-02-27,Promoção Natal,Aberto
+87,contato87@yahoo.com,2024-11-05,Promoção Natal,Aberto
+88,contato88@yahoo.com,2024-09-24,Promoção Verão,Spam
+89,contato89@yahoo.com,2024-07-05,Promoção Verão,Enviado
+90,contato90@gmail.com,2024-04-17,Promoção Black Friday,Clique
+91,contato91@hotmail.com,2024-10-24,Promoção Natal,Clique
+92,contato92@yahoo.com,2024-04-10,Promoção Verão,Aberto
+93,contato93@hotmail.com,2024-06-02,Promoção Verão,Clique
+94,contato94@hotmail.com,2024-05-13,Promoção Natal,Clique
+95,contato95@gmail.com,2024-04-10,Promoção Verão,Enviado
+96,contato96@yahoo.com,2024-06-20,Promoção Black Friday,Clique
+97,contato97@gmail.com,2024-04-01,Promoção Verão,Enviado
+98,contato98@hotmail.com,2024-03-26,Promoção Natal,Enviado
+99,contato99@yahoo.com,2024-02-09,Promoção Black Friday,Clique
+100,contato100@yahoo.com,2024-09-15,Promoção Inverno,Aberto
+101,contato101@gmail.com,2024-08-24,Promoção Black Friday,Aberto
+102,contato102@yahoo.com,2024-01-16,Promoção Verão,Clique
+103,contato103@yahoo.com,2024-08-21,Promoção Inverno,Spam
+104,contato104@gmail.com,2024-05-19,Promoção Inverno,Spam
+105,contato105@hotmail.com,2024-07-16,Promoção Verão,Aberto
+106,contato106@gmail.com,2024-11-09,Promoção Natal,Aberto
+107,contato107@hotmail.com,2024-06-21,Promoção Verão,Aberto
+108,contato108@hotmail.com,2024-06-16,Promoção Natal,Enviado
+109,contato109@yahoo.com,2024-12-03,Promoção Natal,Enviado
+110,contato110@hotmail.com,2024-05-07,Promoção Black Friday,Clique
+111,contato111@hotmail.com,2024-06-05,Promoção Inverno,Clique
+112,contato112@hotmail.com,2024-07-04,Promoção Black Friday,Aberto
+113,contato113@gmail.com,2024-07-27,Promoção Verão,Enviado
+114,contato114@gmail.com,2024-02-16,Promoção Black Friday,Enviado
+115,contato115@gmail.com,2024-04-11,Promoção Verão,Aberto
+116,contato116@hotmail.com,2024-08-20,Promoção Verão,Aberto
+117,contato117@hotmail.com,2024-06-13,Promoção Inverno,Enviado
+118,contato118@gmail.com,2024-04-24,Promoção Verão,Enviado
+119,contato119@gmail.com,2024-06-28,Promoção Black Friday,Enviado
+120,contato120@gmail.com,2024-08-10,Promoção Black Friday,Spam
+121,contato121@yahoo.com,2024-03-15,Promoção Inverno,Clique
+122,contato122@yahoo.com,2024-04-12,Promoção Natal,Enviado
+123,contato123@yahoo.com,2024-07-11,Promoção Natal,Enviado
+124,contato124@yahoo.com,2024-01-22,Promoção Natal,Clique
+125,contato125@gmail.com,2024-12-21,Promoção Black Friday,Spam
+126,contato126@gmail.com,2024-09-09,Promoção Inverno,Aberto
+127,contato127@hotmail.com,2024-04-11,Promoção Black Friday,Enviado
+128,contato128@yahoo.com,2024-02-01,Promoção Verão,Enviado
+129,contato129@yahoo.com,2024-03-03,Promoção Natal,Aberto
+130,contato130@gmail.com,2024-12-19,Promoção Natal,Enviado
+131,contato131@yahoo.com,2024-10-18,Promoção Verão,Enviado
+132,contato132@gmail.com,2024-05-23,Promoção Black Friday,Spam
+133,contato133@yahoo.com,2024-05-13,Promoção Black Friday,Spam
+134,contato134@hotmail.com,2024-09-14,Promoção Natal,Spam
+135,contato135@hotmail.com,2024-02-28,Promoção Verão,Clique
+136,contato136@yahoo.com,2024-07-04,Promoção Verão,Enviado
+137,contato137@hotmail.com,2024-08-06,Promoção Black Friday,Spam
+138,contato138@gmail.com,2024-11-27,Promoção Natal,Enviado
+139,contato139@yahoo.com,2024-12-20,Promoção Inverno,Clique
+140,contato140@gmail.com,2024-12-20,Promoção Inverno,Spam
+141,contato141@yahoo.com,2024-08-02,Promoção Verão,Spam
+142,contato142@gmail.com,2024-08-27,Promoção Black Friday,Aberto
+143,contato143@yahoo.com,2024-12-19,Promoção Black Friday,Enviado
+144,contato144@gmail.com,2024-02-12,Promoção Verão,Enviado
+145,contato145@gmail.com,2024-06-13,Promoção Natal,Enviado
+146,contato146@hotmail.com,2024-01-17,Promoção Verão,Aberto
+147,contato147@hotmail.com,2024-04-09,Promoção Inverno,Enviado
+148,contato148@hotmail.com,2024-03-28,Promoção Natal,Aberto
+149,contato149@yahoo.com,2024-11-11,Promoção Natal,Enviado
+150,contato150@hotmail.com,2024-01-07,Promoção Black Friday,Aberto
+151,contato151@hotmail.com,2024-07-26,Promoção Inverno,Enviado
+152,contato152@yahoo.com,2024-12-08,Promoção Black Friday,Aberto
+153,contato153@gmail.com,2024-05-26,Promoção Natal,Enviado
+154,contato154@yahoo.com,2024-07-07,Promoção Natal,Clique
+155,contato155@hotmail.com,2024-04-02,Promoção Black Friday,Aberto
+156,contato156@gmail.com,2024-08-13,Promoção Inverno,Clique
+157,contato157@yahoo.com,2024-11-24,Promoção Black Friday,Clique
+158,contato158@gmail.com,2024-10-24,Promoção Black Friday,Aberto
+159,contato159@yahoo.com,2024-10-24,Promoção Black Friday,Enviado
+160,contato160@gmail.com,2024-10-11,Promoção Natal,Enviado
+161,contato161@gmail.com,2024-09-19,Promoção Inverno,Aberto
+162,contato162@gmail.com,2024-06-26,Promoção Natal,Clique
+163,contato163@gmail.com,2024-08-17,Promoção Natal,Spam
+164,contato164@hotmail.com,2024-11-21,Promoção Inverno,Aberto
+165,contato165@yahoo.com,2024-06-16,Promoção Inverno,Aberto
+166,contato166@yahoo.com,2024-08-26,Promoção Black Friday,Enviado
+167,contato167@yahoo.com,2024-04-19,Promoção Black Friday,Spam
+168,contato168@gmail.com,2024-04-05,Promoção Black Friday,Aberto
+169,contato169@gmail.com,2024-10-03,Promoção Verão,Spam
+170,contato170@yahoo.com,2024-06-06,Promoção Inverno,Enviado
+171,contato171@yahoo.com,2024-09-28,Promoção Verão,Clique
+172,contato172@hotmail.com,2024-10-19,Promoção Natal,Clique
+173,contato173@yahoo.com,2024-07-26,Promoção Natal,Clique
+174,contato174@yahoo.com,2024-03-28,Promoção Black Friday,Enviado
+175,contato175@yahoo.com,2024-11-12,Promoção Verão,Aberto
+176,contato176@hotmail.com,2024-02-20,Promoção Inverno,Spam
+177,contato177@yahoo.com,2024-10-24,Promoção Inverno,Spam
+178,contato178@gmail.com,2024-10-09,Promoção Natal,Clique
+179,contato179@gmail.com,2024-10-22,Promoção Natal,Spam
+180,contato180@yahoo.com,2024-06-06,Promoção Inverno,Enviado
+181,contato181@hotmail.com,2024-04-19,Promoção Inverno,Enviado
+182,contato182@gmail.com,2024-07-16,Promoção Black Friday,Clique
+183,contato183@yahoo.com,2024-02-25,Promoção Natal,Spam
+184,contato184@gmail.com,2024-08-14,Promoção Inverno,Spam
+185,contato185@yahoo.com,2024-02-06,Promoção Natal,Spam
+186,contato186@yahoo.com,2024-07-10,Promoção Inverno,Spam
+187,contato187@yahoo.com,2024-09-21,Promoção Inverno,Enviado
+188,contato188@hotmail.com,2024-03-26,Promoção Verão,Aberto
+189,contato189@hotmail.com,2024-11-17,Promoção Verão,Enviado
+190,contato190@yahoo.com,2024-10-25,Promoção Natal,Aberto
+191,contato191@yahoo.com,2024-01-14,Promoção Natal,Aberto
+192,contato192@hotmail.com,2024-11-05,Promoção Black Friday,Spam
+193,contato193@yahoo.com,2024-03-25,Promoção Inverno,Clique
+194,contato194@gmail.com,2024-03-18,Promoção Natal,Aberto
+195,contato195@gmail.com,2024-10-04,Promoção Natal,Enviado
+196,contato196@gmail.com,2024-05-15,Promoção Black Friday,Aberto
+197,contato197@gmail.com,2024-05-07,Promoção Inverno,Spam
+198,contato198@hotmail.com,2024-05-14,Promoção Verão,Enviado
+199,contato199@gmail.com,2024-09-05,Promoção Inverno,Aberto
+200,contato200@yahoo.com,2024-07-12,Promoção Natal,Aberto
+201,contato201@gmail.com,2024-07-25,Promoção Verão,Clique
+202,contato202@yahoo.com,2024-05-25,Promoção Verão,Spam
+203,contato203@gmail.com,2024-05-14,Promoção Verão,Spam
+204,contato204@gmail.com,2024-10-26,Promoção Verão,Clique
+205,contato205@yahoo.com,2024-11-05,Promoção Black Friday,Spam
+206,contato206@yahoo.com,2024-09-17,Promoção Inverno,Aberto
+207,contato207@gmail.com,2024-02-04,Promoção Verão,Spam
+208,contato208@yahoo.com,2024-06-08,Promoção Black Friday,Spam
+209,contato209@hotmail.com,2024-04-17,Promoção Inverno,Aberto
+210,contato210@hotmail.com,2024-07-25,Promoção Inverno,Enviado
+211,contato211@gmail.com,2024-04-15,Promoção Verão,Spam
+212,contato212@yahoo.com,2024-04-19,Promoção Inverno,Spam
+213,contato213@yahoo.com,2024-02-04,Promoção Natal,Spam
+214,contato214@hotmail.com,2024-05-23,Promoção Natal,Clique
+215,contato215@yahoo.com,2024-10-21,Promoção Verão,Clique
+216,contato216@gmail.com,2024-08-10,Promoção Verão,Clique
+217,contato217@hotmail.com,2024-08-16,Promoção Black Friday,Clique
+218,contato218@gmail.com,2024-10-21,Promoção Inverno,Aberto
+219,contato219@gmail.com,2024-11-09,Promoção Verão,Enviado
+220,contato220@gmail.com,2024-12-27,Promoção Verão,Aberto
+221,contato221@hotmail.com,2024-10-14,Promoção Black Friday,Clique
+222,contato222@hotmail.com,2024-07-21,Promoção Verão,Spam
+223,contato223@gmail.com,2024-07-20,Promoção Natal,Enviado
+224,contato224@yahoo.com,2024-04-25,Promoção Black Friday,Spam
+225,contato225@hotmail.com,2024-10-14,Promoção Verão,Spam
+226,contato226@hotmail.com,2024-05-11,Promoção Inverno,Spam
+227,contato227@yahoo.com,2024-12-06,Promoção Black Friday,Aberto
+228,contato228@gmail.com,2024-11-27,Promoção Natal,Spam
+229,contato229@gmail.com,2024-05-23,Promoção Verão,Spam
+230,contato230@hotmail.com,2024-03-02,Promoção Verão,Enviado
+231,contato231@yahoo.com,2024-10-22,Promoção Verão,Enviado
+232,contato232@hotmail.com,2024-12-01,Promoção Natal,Aberto
+233,contato233@yahoo.com,2024-11-22,Promoção Verão,Spam
+234,contato234@yahoo.com,2024-07-01,Promoção Inverno,Enviado
+235,contato235@gmail.com,2024-07-23,Promoção Black Friday,Aberto
+236,contato236@hotmail.com,2024-08-28,Promoção Natal,Aberto
+237,contato237@gmail.com,2024-07-08,Promoção Inverno,Clique
+238,contato238@gmail.com,2024-03-11,Promoção Natal,Spam
+239,contato239@gmail.com,2024-12-22,Promoção Inverno,Spam
+240,contato240@hotmail.com,2024-02-12,Promoção Black Friday,Clique
+241,contato241@hotmail.com,2024-06-24,Promoção Natal,Enviado
+242,contato242@hotmail.com,2024-03-05,Promoção Inverno,Enviado
+243,contato243@yahoo.com,2024-07-18,Promoção Verão,Spam
+244,contato244@hotmail.com,2024-06-28,Promoção Natal,Enviado
+245,contato245@hotmail.com,2024-02-11,Promoção Inverno,Aberto
+246,contato246@yahoo.com,2024-05-24,Promoção Natal,Enviado
+247,contato247@yahoo.com,2024-05-26,Promoção Inverno,Clique
+248,contato248@gmail.com,2024-10-21,Promoção Black Friday,Clique
+249,contato249@yahoo.com,2024-11-26,Promoção Inverno,Clique
+250,contato250@yahoo.com,2024-08-19,Promoção Natal,Clique
+251,contato251@yahoo.com,2024-10-08,Promoção Verão,Aberto
+252,contato252@yahoo.com,2024-02-03,Promoção Black Friday,Spam
+253,contato253@gmail.com,2024-04-03,Promoção Inverno,Enviado
+254,contato254@hotmail.com,2024-12-15,Promoção Inverno,Aberto
+255,contato255@yahoo.com,2024-02-15,Promoção Verão,Enviado
+256,contato256@gmail.com,2024-06-03,Promoção Inverno,Spam
+257,contato257@hotmail.com,2024-07-23,Promoção Natal,Spam
+258,contato258@hotmail.com,2024-01-25,Promoção Verão,Aberto
+259,contato259@gmail.com,2024-01-05,Promoção Natal,Enviado
+260,contato260@hotmail.com,2024-07-13,Promoção Inverno,Enviado
+261,contato261@hotmail.com,2024-08-18,Promoção Verão,Enviado
+262,contato262@hotmail.com,2024-01-08,Promoção Inverno,Enviado
+263,contato263@gmail.com,2024-12-22,Promoção Inverno,Enviado
+264,contato264@gmail.com,2024-11-01,Promoção Natal,Clique
+265,contato265@yahoo.com,2024-08-08,Promoção Black Friday,Clique
+266,contato266@gmail.com,2024-01-01,Promoção Verão,Clique
+267,contato267@hotmail.com,2024-12-25,Promoção Black Friday,Aberto
+268,contato268@gmail.com,2024-09-23,Promoção Natal,Aberto
+269,contato269@hotmail.com,2024-12-07,Promoção Inverno,Enviado
+270,contato270@yahoo.com,2024-04-24,Promoção Natal,Enviado
+271,contato271@gmail.com,2024-06-05,Promoção Verão,Aberto
+272,contato272@yahoo.com,2024-07-16,Promoção Inverno,Clique
+273,contato273@hotmail.com,2024-06-24,Promoção Natal,Clique
+274,contato274@gmail.com,2024-11-06,Promoção Inverno,Clique
+275,contato275@hotmail.com,2024-03-03,Promoção Verão,Enviado
+276,contato276@gmail.com,2024-03-14,Promoção Inverno,Enviado
+277,contato277@gmail.com,2024-06-03,Promoção Verão,Enviado
+278,contato278@yahoo.com,2024-12-17,Promoção Black Friday,Clique
+279,contato279@yahoo.com,2024-01-22,Promoção Verão,Aberto
+280,contato280@gmail.com,2024-03-23,Promoção Verão,Aberto
+281,contato281@hotmail.com,2024-10-28,Promoção Inverno,Enviado
+282,contato282@yahoo.com,2024-02-21,Promoção Natal,Clique
+283,contato283@yahoo.com,2024-03-19,Promoção Natal,Clique
+284,contato284@hotmail.com,2024-03-15,Promoção Black Friday,Clique
+285,contato285@gmail.com,2024-03-12,Promoção Verão,Clique
+286,contato286@yahoo.com,2024-12-06,Promoção Inverno,Spam
+287,contato287@gmail.com,2024-07-09,Promoção Inverno,Enviado
+288,contato288@yahoo.com,2024-10-22,Promoção Verão,Enviado
+289,contato289@hotmail.com,2024-05-18,Promoção Black Friday,Enviado
+290,contato290@yahoo.com,2024-03-16,Promoção Natal,Aberto
+291,contato291@gmail.com,2024-07-07,Promoção Verão,Aberto
+292,contato292@yahoo.com,2024-07-06,Promoção Black Friday,Clique
+293,contato293@gmail.com,2024-02-01,Promoção Black Friday,Enviado
+294,contato294@gmail.com,2024-02-01,Promoção Inverno,Aberto
+295,contato295@hotmail.com,2024-05-04,Promoção Verão,Spam
+296,contato296@yahoo.com,2024-05-17,Promoção Inverno,Enviado
+297,contato297@gmail.com,2024-12-05,Promoção Verão,Clique
+298,contato298@gmail.com,2024-06-02,Promoção Natal,Spam
+299,contato299@yahoo.com,2024-03-01,Promoção Inverno,Clique
+300,contato300@hotmail.com,2024-10-11,Promoção Inverno,Aberto
