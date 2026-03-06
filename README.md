@@ -1,96 +1,189 @@
-# Gerador de Dados Fake com Preservação de CPF
+# Gerador de Dados Fake com Preservação de Documentos
 
-Este projeto gera versões fake de arquivos CSV, mas mantém os CPFs originais intactos. Útil quando você precisa compartilhar dados para testes sem expor informações sensíveis.
+Sistema que gera versões fake de arquivos CSV preservando **CPF e CNPJ** (completos ou divididos).
 
-## Requisitos
-
-- Python 3.8 ou superior
-- Bibliotecas: pandas e numpy
-
-## Como usar
-
-### 1. Clone o repositório e configure o ambiente
+## 🚀 Uso
 
 ```bash
-git clone https://github.com/LuisHenriqueCompass/preservar_cpf_tabelas.git
-cd preservar_cpf_tabelas
-
-# Recomendo criar um ambiente virtual
-python -m venv venv
-venv\Scripts\activate  # Windows
-# source venv/bin/activate  # Linux/Mac
-
-# Instale as dependências
-pip install pandas numpy
-```
-
-### 2. Organize seus arquivos
-
-Coloque os CSVs que você quer processar na pasta `dados/original/`. Se quiser testar antes, rode o script de exemplo:
-
-```bash
+# 1. Gerar dados de teste
 python gerar_tabelas.py
+
+# 2. Fakear dados (preservando documentos)
+python fakear_tabelas.py dados/original/
 ```
 
-### 3. Execute o script principal
+## 💡 Como funciona
 
-```bash
-python gerar_fakes.py dados/original
-```
+- **Detecta automaticamente** CPF/CNPJ por validação algorítmica (não pelo nome da coluna)
+- **Preserva documentos** completos ou divididos em múltiplas colunas
+- **Fakeia todo o resto** (nomes, emails, valores, etc)
 
-Os arquivos processados vão aparecer em `dados/fake/` com o sufixo `_fake.csv`.
+## 🧠 Funcionamento Interno (Detalhado)
 
-## O que ele faz
+Esta seção explica exatamente como o sistema identifica documentos e evita confundir com outras colunas numéricas/textuais.
 
-O script lê cada CSV e tenta identificar quais colunas contêm CPF. Quando encontra:
+### 1) Pré-processamento dos valores
 
-- Mantém os CPFs intactos
-- Substitui os outros dados por informações fake (nomes, emails, etc)
-- Salva tudo num novo arquivo
+Antes de validar qualquer valor, o sistema:
 
-Se não encontrar CPF em nenhuma coluna, o arquivo é ignorado.
+1. Converte para string
+2. Remove tudo que não for dígito (`0-9`)
+3. Trabalha apenas com a sequência numérica final
 
-## Exemplo prático
+Exemplos:
 
-**Antes** (`clientes.csv`):
+- `"529.982.247-25"` → `52998224725`
+- `"03.579.633/1878-39"` → `03579633187839`
+
+Isso permite validar documentos com ou sem máscara.
+
+### 2) Validação de CPF (11 dígitos)
+
+Um CPF válido possui 9 dígitos base + 2 dígitos verificadores.
+
+Regras aplicadas:
+
+- Deve ter exatamente 11 dígitos
+- Rejeita sequências repetidas (ex: `11111111111`)
+- Valida os 2 dígitos verificadores por checksum módulo 11
+
+#### Cálculo do 1º dígito verificador
+
+- Multiplica os 9 primeiros dígitos pelos pesos `10..2`
+- Soma os resultados
+- Calcula `resto = soma % 11`
+- Dígito esperado:
+    - `0`, se `resto < 2`
+    - `11 - resto`, caso contrário
+
+#### Cálculo do 2º dígito verificador
+
+- Multiplica os 10 primeiros dígitos (incluindo o 1º DV) pelos pesos `11..2`
+- Repete a mesma regra de módulo 11
+
+Se os dois dígitos baterem, o CPF é considerado válido.
+
+### 3) Validação de CNPJ (14 dígitos)
+
+Um CNPJ válido possui 12 dígitos base + 2 dígitos verificadores.
+
+Regras aplicadas:
+
+- Deve ter exatamente 14 dígitos
+- Rejeita sequências repetidas (ex: `00000000000000`)
+- Valida os 2 dígitos verificadores por checksum módulo 11
+
+#### Cálculo do 1º dígito verificador
+
+- Usa os pesos: `5,4,3,2,9,8,7,6,5,4,3,2`
+- Multiplica os 12 dígitos pelos pesos e soma
+- Calcula `resto = soma % 11`
+- Dígito esperado:
+    - `0`, se `resto < 2`
+    - `11 - resto`, caso contrário
+
+#### Cálculo do 2º dígito verificador
+
+- Usa os pesos: `6,5,4,3,2,9,8,7,6,5,4,3,2`
+- Repete a mesma regra de módulo 11
+
+Se os dois dígitos baterem, o CNPJ é considerado válido.
+
+### 4) Como identifica colunas completas
+
+Para cada coluna, o sistema avalia até `AMOSTRA` linhas e mede a taxa de valores válidos.
+
+- Se a taxa de CPF válido ≥ `CONFIANCA`, marca coluna como CPF
+- Se a taxa de CNPJ válido ≥ `CONFIANCA`, marca coluna como CNPJ
+
+Com padrão atual:
+
+- `AMOSTRA = 100`
+- `CONFIANCA = 0.7`
+
+Ou seja: precisa de pelo menos 70% de valores válidos na amostra.
+
+### 5) Como valida prefixo/sufixo/partes (ex: raiz + sufixo + dígito)
+
+Quando um documento está quebrado, o sistema tenta recompor automaticamente:
+
+1. Seleciona colunas candidatas com conteúdo majoritariamente numérico (1 a 14 dígitos)
+2. Testa combinações de 2 e 3 colunas
+3. Concatena na ordem da combinação
+4. Valida o resultado como CPF e CNPJ
+5. Se atingir confiança ≥ 70%, marca o grupo como documento válido
+
+Exemplos que ele consegue detectar:
+
+- `cnpj_raiz + cnpj_complemento`
+- `cnpj_raiz_unhash + cnpj_sufx + cnpj_dig`
+- Outros nomes equivalentes, desde que o conteúdo forme documento válido
+
+### 6) Como evita confundir com colunas numéricas comuns
+
+O sistema não se baseia só em “parece número”. Ele exige validação matemática e taxa mínima.
+
+Uma coluna como `id`, `valor`, `ano`, `cep` geralmente NÃO passa porque:
+
+- Não tem tamanho/documento consistente
+- Não passa no checksum de CPF/CNPJ
+- Não atinge taxa mínima de 70% de válidos
+
+Em resumo: o filtro é por **estrutura + checksum + confiança estatística**.
+
+### 7) Fluxo final de preservação
+
+1. Detecta colunas com CPF/CNPJ completos
+2. Detecta grupos de colunas que formam documentos
+3. Une tudo em `cols_preservar`
+4. Preserva essas colunas sem alteração
+5. Fakeia somente o restante
+
+Resultado: preserva documentos sensíveis com precisão e reduz falsos positivos em colunas comuns.
+
+## 🎯 Padrões Suportados
+
+| Tipo | Exemplo | Status |
+|------|---------|--------|
+| CPF completo | `cpf`, `documento`, `ndoc_completo` | ✅ |
+| CNPJ completo | `cnpj`, `cnpj_completo` | ✅ |
+| CNPJ 2 partes | `cnpj_raiz` + `cnpj_complemento` | ✅ |
+| CNPJ 3 partes | `doc_parte1` + `doc_parte2` + `doc_parte3` | ✅ |
+
+**Não depende do nome** - valida por checksum algorítmico (70%+ valores válidos).
+
+## 📊 Exemplo
+
+**Original** (`fornecedores.csv`):
 ```csv
-id,nome,cpf,email
-1,João Silva,52998224725,joao.silva@empresa.com
-2,Maria Santos,12345678901,maria.santos@empresa.com
+id,razao_social,cnpj,email
+1,Empresa ABC,03579633187839,contato@abc.com
 ```
 
-**Depois** (`clientes_fake.csv`):
+**Fake** (`fornecedores_fake.csv`):
 ```csv
-id,nome,cpf,email
-1,Carlos Oliveira,52998224725,user432@gmail.com
-2,Ana Costa,12345678901,user891@gmail.com
+id,razao_social,cnpj,email
+id_3006,Empresa 5669,03579633187839,user742@yahoo.com.br
 ```
 
-Os CPFs continuam os mesmos. O resto foi substituído.
+✅ CNPJ preservado | 🎭 Resto fakeado
 
-## Configurações
+## ⚙️ Configurações
 
-Se quiser ajustar a detecção de CPF, edite o arquivo `validar_cpf.py`:
-
+Em `validar_documentos.py`:
 ```python
-AMOSTRA = 100      # Quantas linhas analisar por arquivo
-CONFIANCA = 0.7    # Porcentagem mínima para considerar uma coluna como CPF
+AMOSTRA = 100      # Linhas analisadas
+CONFIANCA = 0.7    # Taxa mínima (70%) para considerar coluna
 ```
 
-## Limitações
-
-O script só processa arquivos que têm pelo menos uma coluna com CPF válido. Isso acontece porque ele foi desenvolvido especificamente para preservar CPFs como identificador principal dos registros.
-
-Se você tem CSVs sem CPF e quer gerar versões fake mesmo assim, vai precisar adaptar a lógica do `gerar_fakes.py` para definir qual coluna deve ser preservada como chave.
-
-## Estrutura do projeto
+## 📁 Estrutura
 
 ```
 projeto/
-├── validar_cpf.py      # Detecta colunas com CPF
-├── gerar_fakes.py      # Script principal
-├── gerar_tabelas.py    # Gera CSVs de exemplo
+├── validar_documentos.py # Validação CPF/CNPJ
+├── gerar_tabelas.py    # Gera dados de teste
+├── fakear_tabelas.py   # Gera dados fake
 └── dados/
-    ├── original/       # Seus arquivos CSV vão aqui
-    └── fake/           # Arquivos processados aparecem aqui
+    ├── original/       # CSVs originais
+    └── fake/           # CSVs fakeados
 ```

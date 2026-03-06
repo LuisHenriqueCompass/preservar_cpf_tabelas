@@ -1,201 +1,181 @@
-id_cliente,nome,cpf,email,telefone,cidade,renda,data_cadastro
-1,João Silva,11122233344,cliente1@gmail.com,11971480071,Brasília,12317,2021-07-04
-2,Rafael Almeida,60608761290,cliente2@yahoo.com,11938372865,Belo Horizonte,11404,2022-10-12
-3,Carlos Oliveira,50221290605,cliente3@gmail.com,11971230869,Belo Horizonte,11185,2023-08-11
-4,João Silva,63082785727,cliente4@yahoo.com,11981214010,Porto Alegre,11342,2024-12-01
-5,Carlos Oliveira,52998224725,cliente5@gmail.com,11989949519,Salvador,2985,2021-12-14
-6,Juliana Lima,11122233344,cliente6@hotmail.com,11916063276,Porto Alegre,14602,2022-03-28
-7,Ana Souza,07370382257,cliente7@gmail.com,11914321716,São Paulo,6422,2023-09-11
-8,Rafael Almeida,98381654840,cliente8@gmail.com,11989949519,Rio de Janeiro,2544,2024-01-05
-9,Rafael Almeida,98381654840,cliente9@gmail.com,11914567488,Brasília,5111,2021-10-12
-10,Carlos Oliveira,12345678909,cliente10@yahoo.com,11996307116,Salvador,2514,2022-05-13
-11,Pedro Costa,63082785727,cliente11@yahoo.com,11934541467,Porto Alegre,9731,2023-01-03
-12,João Silva,60608761290,cliente12@yahoo.com,11952939331,Salvador,3395,2024-08-18
-13,Rafael Almeida,07370382257,cliente13@hotmail.com,11927423390,Curitiba,5925,2021-04-11
-14,João Silva,52998224725,cliente14@hotmail.com,11978455055,São Paulo,7127,2022-02-24
-15,Camila Rodrigues,04335195095,cliente15@hotmail.com,11936414794,Rio de Janeiro,13533,2023-08-06
-16,Pedro Costa,50221290605,cliente16@yahoo.com,11935109073,Rio de Janeiro,10936,2024-07-07
-17,Maria Santos,55566677788,cliente17@gmail.com,11987576957,Porto Alegre,12739,2021-06-04
-18,Camila Rodrigues,52998224725,cliente18@gmail.com,11981214010,Rio de Janeiro,8202,2022-11-17
-19,João Silva,63082785727,cliente19@yahoo.com,11971924855,Brasília,8929,2023-09-26
-20,Juliana Lima,52998224725,cliente20@yahoo.com,11974620912,Porto Alegre,5140,2024-12-04
-21,Carlos Oliveira,11122233344,cliente21@yahoo.com,11913601253,Brasília,5727,2021-07-25
-22,Rafael Almeida,04335195095,cliente22@yahoo.com,11936590882,Salvador,13620,2022-12-09
-23,Ana Souza,50221290605,cliente23@hotmail.com,11988320765,São Paulo,14650,2023-09-23
-24,João Silva,11122233344,cliente24@hotmail.com,11970431173,Curitiba,3109,2024-11-26
-25,Carlos Oliveira,07370382257,cliente25@gmail.com,11959573839,Curitiba,2304,2021-11-13
-26,Camila Rodrigues,62597761525,cliente26@hotmail.com,11970431173,Belo Horizonte,10877,2022-02-12
-27,Carlos Oliveira,63082785727,cliente27@hotmail.com,11982162946,Salvador,8624,2023-11-24
-28,Pedro Costa,60608761290,cliente28@hotmail.com,11924297007,Rio de Janeiro,7608,2024-08-18
-29,João Silva,62597761525,cliente29@hotmail.com,11993748363,Porto Alegre,8957,2021-05-03
-30,Maria Santos,07370382257,cliente30@hotmail.com,11970431173,Brasília,11499,2022-08-15
-31,Rafael Almeida,07370382257,cliente31@gmail.com,11966149473,Salvador,2898,2023-05-17
-32,Rafael Almeida,62597761525,cliente32@gmail.com,11920925148,São Paulo,8941,2024-08-26
-33,Maria Santos,55566677788,cliente33@hotmail.com,11989949519,Belo Horizonte,4995,2021-01-04
-34,Pedro Costa,04335195095,cliente34@gmail.com,11941985215,São Paulo,6407,2022-10-06
-35,João Silva,11122233344,cliente35@hotmail.com,11970431173,Rio de Janeiro,12328,2023-08-04
-36,Pedro Costa,50221290605,cliente36@hotmail.com,11966149473,Curitiba,4075,2024-09-26
-37,Camila Rodrigues,62597761525,cliente37@hotmail.com,11916063276,Brasília,10197,2021-08-16
-38,Ana Souza,55566677788,cliente38@gmail.com,11914321716,Rio de Janeiro,3495,2022-01-04
-39,Maria Santos,98381654840,cliente39@gmail.com,11936775227,São Paulo,10310,2023-01-16
-40,Camila Rodrigues,11122233344,cliente40@hotmail.com,11941985215,São Paulo,3133,2024-01-28
-41,Carlos Oliveira,07370382257,cliente41@yahoo.com,11960117278,Curitiba,9983,2021-06-15
-42,Pedro Costa,11122233344,cliente42@gmail.com,11960135741,Salvador,6999,2022-10-13
-43,Ana Souza,62597761525,cliente43@yahoo.com,11971480071,Brasília,13986,2023-06-13
-44,Rafael Almeida,04335195095,cliente44@gmail.com,11959573839,Curitiba,12344,2024-04-03
-45,Pedro Costa,04335195095,cliente45@hotmail.com,11982162946,Curitiba,9946,2021-12-14
-46,Ana Souza,98381654840,cliente46@yahoo.com,11936775227,Brasília,10306,2022-08-18
-47,Carlos Oliveira,60608761290,cliente47@hotmail.com,11960117278,Porto Alegre,6514,2023-05-05
-48,Carlos Oliveira,07370382257,cliente48@gmail.com,11917201990,Salvador,13716,2024-06-27
-49,João Silva,07370382257,cliente49@hotmail.com,11966149473,Porto Alegre,6499,2021-01-13
-50,João Silva,63082785727,cliente50@yahoo.com,11916063276,Brasília,3718,2022-10-08
-51,João Silva,52998224725,cliente51@gmail.com,11940906076,Brasília,3878,2023-09-27
-52,Carlos Oliveira,04335195095,cliente52@yahoo.com,11955824883,Porto Alegre,5949,2024-03-07
-53,Ana Souza,04335195095,cliente53@hotmail.com,11915977920,Rio de Janeiro,11911,2021-03-05
-54,Maria Santos,62597761525,cliente54@hotmail.com,11917966287,Curitiba,10593,2022-09-10
-55,Pedro Costa,07370382257,cliente55@gmail.com,11971230869,São Paulo,13040,2023-07-10
-56,Camila Rodrigues,55566677788,cliente56@gmail.com,11982991670,Salvador,9762,2024-05-13
-57,Juliana Lima,07370382257,cliente57@gmail.com,11936414794,Rio de Janeiro,12758,2021-06-21
-58,Carlos Oliveira,12345678909,cliente58@hotmail.com,11941985215,Curitiba,14109,2022-10-01
-59,Maria Santos,62597761525,cliente59@gmail.com,11955824883,Rio de Janeiro,2719,2023-06-04
-60,Pedro Costa,60608761290,cliente60@hotmail.com,11938372865,Salvador,14185,2024-06-22
-61,Maria Santos,60608761290,cliente61@hotmail.com,11915977920,Belo Horizonte,8293,2021-12-07
-62,Carlos Oliveira,11122233344,cliente62@yahoo.com,11936590882,Belo Horizonte,7843,2022-12-09
-63,Camila Rodrigues,52998224725,cliente63@gmail.com,11927336967,Belo Horizonte,10225,2023-11-07
-64,Carlos Oliveira,52998224725,cliente64@yahoo.com,11921933541,Brasília,12505,2024-01-26
-65,Maria Santos,55566677788,cliente65@hotmail.com,11917966287,Salvador,14634,2021-01-03
-66,Camila Rodrigues,63082785727,cliente66@yahoo.com,11936590882,Curitiba,6675,2022-06-12
-67,Maria Santos,50221290605,cliente67@yahoo.com,11950505609,Curitiba,7212,2023-06-21
-68,Maria Santos,50221290605,cliente68@hotmail.com,11966149473,Rio de Janeiro,9879,2024-05-03
-69,Carlos Oliveira,50221290605,cliente69@hotmail.com,11913601253,Brasília,2072,2021-12-18
-70,Juliana Lima,12345678909,cliente70@gmail.com,11982162946,Brasília,3107,2022-06-13
-71,Ana Souza,98381654840,cliente71@yahoo.com,11927423390,Porto Alegre,4048,2023-11-18
-72,Juliana Lima,55566677788,cliente72@hotmail.com,11987576957,Brasília,9123,2024-09-20
-73,Camila Rodrigues,12345678909,cliente73@yahoo.com,11935109073,Salvador,13804,2021-03-18
-74,Rafael Almeida,11122233344,cliente74@gmail.com,11921933541,Brasília,5701,2022-06-27
-75,Juliana Lima,11122233344,cliente75@hotmail.com,11982991670,Porto Alegre,9095,2023-04-19
-76,Maria Santos,63082785727,cliente76@yahoo.com,11955346179,Porto Alegre,2477,2024-05-27
-77,Camila Rodrigues,11122233344,cliente77@gmail.com,11971230869,Curitiba,11114,2021-02-13
-78,Camila Rodrigues,52998224725,cliente78@yahoo.com,11993471043,São Paulo,3061,2022-05-22
-79,Ana Souza,98381654840,cliente79@gmail.com,11946014365,São Paulo,11009,2023-03-06
-80,João Silva,55566677788,cliente80@gmail.com,11971480071,São Paulo,10918,2024-04-07
-81,Maria Santos,52998224725,cliente81@hotmail.com,11982991670,Salvador,2631,2021-09-25
-82,Pedro Costa,55566677788,cliente82@yahoo.com,11914567488,Brasília,4495,2022-04-13
-83,Juliana Lima,12345678909,cliente83@yahoo.com,11993748363,Curitiba,3215,2023-08-13
-84,Ana Souza,11122233344,cliente84@hotmail.com,11993748363,Salvador,8597,2024-01-20
-85,Rafael Almeida,07370382257,cliente85@gmail.com,11916063276,Rio de Janeiro,13491,2021-12-09
-86,Maria Santos,12345678909,cliente86@hotmail.com,11945882884,Rio de Janeiro,13315,2022-07-09
-87,Maria Santos,04335195095,cliente87@gmail.com,11988320765,Salvador,6962,2023-01-21
-88,Carlos Oliveira,62597761525,cliente88@hotmail.com,11959573839,Curitiba,6514,2024-05-07
-89,Rafael Almeida,52998224725,cliente89@yahoo.com,11913601253,Curitiba,12710,2021-01-22
-90,Pedro Costa,55566677788,cliente90@hotmail.com,11982991670,Curitiba,7363,2022-12-27
-91,Pedro Costa,11122233344,cliente91@hotmail.com,11935109073,Salvador,9241,2023-06-24
-92,Carlos Oliveira,12345678909,cliente92@yahoo.com,11936414794,Curitiba,7935,2024-11-22
-93,Maria Santos,04335195095,cliente93@yahoo.com,11946014365,Curitiba,4663,2021-01-03
-94,Ana Souza,63082785727,cliente94@gmail.com,11914374771,Salvador,11257,2022-01-06
-95,Camila Rodrigues,11122233344,cliente95@gmail.com,11920925148,Rio de Janeiro,14822,2023-09-21
-96,Rafael Almeida,62597761525,cliente96@yahoo.com,11941985215,Curitiba,7843,2024-01-04
-97,Rafael Almeida,04335195095,cliente97@hotmail.com,11978455055,Belo Horizonte,10286,2021-03-13
-98,Juliana Lima,07370382257,cliente98@gmail.com,11981214010,Salvador,13460,2022-11-15
-99,Maria Santos,55566677788,cliente99@gmail.com,11935109073,São Paulo,8760,2023-08-28
-100,Carlos Oliveira,62597761525,cliente100@gmail.com,11987576957,Brasília,4026,2024-07-26
-101,João Silva,50221290605,cliente101@hotmail.com,11934541467,Porto Alegre,14809,2021-07-13
-102,Pedro Costa,63082785727,cliente102@yahoo.com,11945882884,Belo Horizonte,9829,2022-02-20
-103,João Silva,04335195095,cliente103@yahoo.com,11915287247,Salvador,11560,2023-07-15
-104,Pedro Costa,60608761290,cliente104@hotmail.com,11914567488,Salvador,5568,2024-08-08
-105,Carlos Oliveira,98381654840,cliente105@gmail.com,11916063276,Curitiba,6325,2021-02-27
-106,Juliana Lima,98381654840,cliente106@gmail.com,11952939331,Porto Alegre,13196,2022-11-10
-107,Ana Souza,63082785727,cliente107@yahoo.com,11977485644,São Paulo,14856,2023-12-14
-108,Ana Souza,11122233344,cliente108@yahoo.com,11914374771,Belo Horizonte,11361,2024-12-23
-109,Rafael Almeida,60608761290,cliente109@gmail.com,11988320765,Rio de Janeiro,2561,2021-03-27
-110,Maria Santos,60608761290,cliente110@gmail.com,11982162946,Salvador,5205,2022-11-12
-111,Pedro Costa,07370382257,cliente111@hotmail.com,11914374771,Belo Horizonte,4039,2023-05-02
-112,Carlos Oliveira,60608761290,cliente112@hotmail.com,11966149473,São Paulo,14824,2024-03-20
-113,Camila Rodrigues,55566677788,cliente113@gmail.com,11970431173,Rio de Janeiro,13015,2021-07-25
-114,Camila Rodrigues,12345678909,cliente114@yahoo.com,11979583418,Rio de Janeiro,12158,2022-01-25
-115,Ana Souza,55566677788,cliente115@hotmail.com,11927336967,Porto Alegre,2880,2023-06-19
-116,Pedro Costa,52998224725,cliente116@gmail.com,11914374771,Brasília,12577,2024-05-25
-117,Pedro Costa,52998224725,cliente117@yahoo.com,11938372865,Brasília,6905,2021-06-25
-118,Camila Rodrigues,55566677788,cliente118@yahoo.com,11960135741,São Paulo,10191,2022-08-20
-119,João Silva,60608761290,cliente119@gmail.com,11996307116,Rio de Janeiro,13474,2023-06-03
-120,Rafael Almeida,07370382257,cliente120@gmail.com,11915287247,Salvador,14877,2024-12-27
-121,Rafael Almeida,52998224725,cliente121@gmail.com,11942304127,Salvador,3177,2021-08-22
-122,Carlos Oliveira,04335195095,cliente122@yahoo.com,11974620912,Rio de Janeiro,14576,2022-08-27
-123,Rafael Almeida,11122233344,cliente123@gmail.com,11970431173,Brasília,5019,2023-10-10
-124,Camila Rodrigues,50221290605,cliente124@yahoo.com,11977485644,Belo Horizonte,4527,2024-02-24
-125,Carlos Oliveira,04335195095,cliente125@hotmail.com,11915977920,Brasília,3838,2021-01-08
-126,Pedro Costa,63082785727,cliente126@gmail.com,11993748363,Porto Alegre,11195,2022-03-12
-127,Maria Santos,55566677788,cliente127@yahoo.com,11914374771,Brasília,13040,2023-04-03
-128,Maria Santos,55566677788,cliente128@gmail.com,11971230869,Belo Horizonte,10030,2024-07-16
-129,Rafael Almeida,98381654840,cliente129@yahoo.com,11940906076,Salvador,6631,2021-04-16
-130,Rafael Almeida,62597761525,cliente130@hotmail.com,11989949519,Porto Alegre,9130,2022-10-08
-131,Camila Rodrigues,11122233344,cliente131@yahoo.com,11940906076,Brasília,3707,2023-04-18
-132,Maria Santos,60608761290,cliente132@gmail.com,11938372865,Belo Horizonte,13047,2024-10-01
-133,Camila Rodrigues,63082785727,cliente133@yahoo.com,11921933541,Brasília,12801,2021-01-03
-134,Maria Santos,63082785727,cliente134@yahoo.com,11913601253,Rio de Janeiro,8830,2022-02-25
-135,João Silva,07370382257,cliente135@hotmail.com,11993748363,Curitiba,8194,2023-10-06
-136,Camila Rodrigues,52998224725,cliente136@yahoo.com,11977485644,Rio de Janeiro,13948,2024-04-21
-137,Carlos Oliveira,52998224725,cliente137@yahoo.com,11989949519,Rio de Janeiro,14124,2021-03-05
-138,Juliana Lima,12345678909,cliente138@yahoo.com,11920925148,Porto Alegre,3191,2022-12-23
-139,Camila Rodrigues,07370382257,cliente139@hotmail.com,11917201990,Brasília,4689,2023-11-22
-140,Pedro Costa,12345678909,cliente140@gmail.com,11917201990,Porto Alegre,11704,2024-04-03
-141,Pedro Costa,07370382257,cliente141@gmail.com,11971924855,Curitiba,7015,2021-10-01
-142,Carlos Oliveira,50221290605,cliente142@gmail.com,11921933541,Rio de Janeiro,10936,2022-07-13
-143,João Silva,62597761525,cliente143@yahoo.com,11915287247,Porto Alegre,12738,2023-04-03
-144,Ana Souza,63082785727,cliente144@gmail.com,11950505609,Porto Alegre,11689,2024-04-16
-145,João Silva,50221290605,cliente145@hotmail.com,11914567488,Belo Horizonte,12963,2021-03-16
-146,Juliana Lima,12345678909,cliente146@gmail.com,11960135741,Porto Alegre,8751,2022-04-11
-147,Carlos Oliveira,12345678909,cliente147@gmail.com,11936775227,Belo Horizonte,8077,2023-08-03
-148,Camila Rodrigues,07370382257,cliente148@hotmail.com,11924297007,Brasília,4473,2024-03-18
-149,João Silva,60608761290,cliente149@yahoo.com,11987576957,Rio de Janeiro,9327,2021-05-08
-150,Maria Santos,55566677788,cliente150@gmail.com,11945882884,Salvador,13672,2022-10-25
-151,Juliana Lima,04335195095,cliente151@yahoo.com,11917201990,Salvador,12596,2023-08-11
-152,Carlos Oliveira,50221290605,cliente152@gmail.com,11955824883,Brasília,10534,2024-11-27
-153,Ana Souza,98381654840,cliente153@hotmail.com,11989949519,Porto Alegre,7732,2021-09-14
-154,Ana Souza,04335195095,cliente154@hotmail.com,11914321716,Belo Horizonte,3587,2022-01-06
-155,Ana Souza,55566677788,cliente155@yahoo.com,11927423390,Rio de Janeiro,14607,2023-05-23
-156,Carlos Oliveira,98381654840,cliente156@yahoo.com,11942304127,São Paulo,12042,2024-12-03
-157,Camila Rodrigues,50221290605,cliente157@yahoo.com,11971230869,Belo Horizonte,6311,2021-06-11
-158,João Silva,50221290605,cliente158@gmail.com,11916063276,Brasília,14004,2022-06-24
-159,Maria Santos,98381654840,cliente159@gmail.com,11936775227,São Paulo,14768,2023-09-26
-160,Maria Santos,62597761525,cliente160@yahoo.com,11955346179,Porto Alegre,9411,2024-07-26
-161,Pedro Costa,11122233344,cliente161@hotmail.com,11914374771,Salvador,2144,2021-02-27
-162,Camila Rodrigues,50221290605,cliente162@gmail.com,11960117278,Salvador,9191,2022-10-11
-163,Maria Santos,12345678909,cliente163@gmail.com,11945882884,Rio de Janeiro,12790,2023-09-16
-164,Juliana Lima,98381654840,cliente164@gmail.com,11952939331,Belo Horizonte,6478,2024-07-18
-165,Pedro Costa,11122233344,cliente165@hotmail.com,11959573839,Brasília,4821,2021-03-01
-166,João Silva,04335195095,cliente166@gmail.com,11938372865,Porto Alegre,7698,2022-05-16
-167,Maria Santos,50221290605,cliente167@yahoo.com,11966149473,Curitiba,13024,2023-07-17
-168,Rafael Almeida,11122233344,cliente168@hotmail.com,11974620912,Belo Horizonte,4435,2024-10-26
-169,Ana Souza,60608761290,cliente169@yahoo.com,11979583418,Belo Horizonte,5613,2021-02-09
-170,Rafael Almeida,04335195095,cliente170@hotmail.com,11920925148,São Paulo,13960,2022-11-27
-171,Juliana Lima,52998224725,cliente171@hotmail.com,11966149473,São Paulo,8171,2023-12-02
-172,João Silva,98381654840,cliente172@hotmail.com,11993471043,São Paulo,3446,2024-09-24
-173,Carlos Oliveira,63082785727,cliente173@gmail.com,11979583418,Salvador,11496,2021-04-09
-174,Juliana Lima,07370382257,cliente174@yahoo.com,11936590882,Salvador,8252,2022-09-20
-175,João Silva,63082785727,cliente175@yahoo.com,11996307116,Salvador,4296,2023-04-19
-176,João Silva,07370382257,cliente176@gmail.com,11966149473,Brasília,10185,2024-01-10
-177,Juliana Lima,98381654840,cliente177@yahoo.com,11945882884,Belo Horizonte,7797,2021-01-09
-178,Ana Souza,11122233344,cliente178@yahoo.com,11946014365,Salvador,5491,2022-08-20
-179,João Silva,07370382257,cliente179@yahoo.com,11946014365,Curitiba,11304,2023-02-20
-180,Pedro Costa,12345678909,cliente180@yahoo.com,11934541467,Salvador,14598,2024-07-01
-181,Juliana Lima,55566677788,cliente181@gmail.com,11913601253,Porto Alegre,8541,2021-01-16
-182,Juliana Lima,60608761290,cliente182@gmail.com,11993471043,Curitiba,3802,2022-11-14
-183,Rafael Almeida,62597761525,cliente183@hotmail.com,11987576957,Brasília,13563,2023-01-18
-184,Ana Souza,07370382257,cliente184@yahoo.com,11914321716,Belo Horizonte,3751,2024-09-15
-185,Rafael Almeida,52998224725,cliente185@hotmail.com,11988320765,Curitiba,4802,2021-01-21
-186,Camila Rodrigues,04335195095,cliente186@hotmail.com,11927423390,Curitiba,12644,2022-10-26
-187,Maria Santos,50221290605,cliente187@gmail.com,11946014365,Rio de Janeiro,6710,2023-10-18
-188,Rafael Almeida,63082785727,cliente188@gmail.com,11917966287,Rio de Janeiro,12856,2024-04-11
-189,Maria Santos,52998224725,cliente189@gmail.com,11914374771,Rio de Janeiro,13660,2021-06-06
-190,Carlos Oliveira,07370382257,cliente190@hotmail.com,11917966287,Porto Alegre,14371,2022-05-13
-191,Pedro Costa,60608761290,cliente191@hotmail.com,11987576957,Rio de Janeiro,10291,2023-02-21
-192,Camila Rodrigues,12345678909,cliente192@gmail.com,11977485644,Brasília,11061,2024-04-11
-193,Carlos Oliveira,50221290605,cliente193@yahoo.com,11971480071,Porto Alegre,12834,2021-09-14
-194,Carlos Oliveira,55566677788,cliente194@hotmail.com,11982162946,São Paulo,14816,2022-11-18
-195,Juliana Lima,11122233344,cliente195@yahoo.com,11982162946,Rio de Janeiro,6773,2023-03-20
-196,Pedro Costa,52998224725,cliente196@yahoo.com,11966149473,Belo Horizonte,12680,2024-11-24
-197,Rafael Almeida,52998224725,cliente197@gmail.com,11993748363,Belo Horizonte,12330,2021-04-05
-198,Carlos Oliveira,50221290605,cliente198@gmail.com,11993471043,São Paulo,5230,2022-06-26
-199,Rafael Almeida,52998224725,cliente199@hotmail.com,11987576957,Belo Horizonte,13672,2023-07-14
-200,Rafael Almeida,50221290605,cliente200@gmail.com,11974620912,Rio de Janeiro,4185,2024-01-07
+id_cliente,nome,cpf,email,telefone
+1,Carlos Oliveira,98381654840,c1@gmail.com,11927039022
+2,Maria Santos,50221290605,c2@gmail.com,11995970399
+3,João Silva,07370382257,c3@hotmail.com,11925034221
+4,Maria Santos,04335195095,c4@gmail.com,11918270054
+5,Maria Santos,62597761525,c5@gmail.com,11960151391
+6,Maria Santos,12345678909,c6@yahoo.com.br,11961579607
+7,Pedro Costa,55566677788,c7@hotmail.com,11954837316
+8,Ana Souza,12345678909,c8@yahoo.com.br,11987241247
+9,Pedro Costa,98381654840,c9@hotmail.com,11977702022
+10,Pedro Costa,98381654840,c10@hotmail.com,11929868154
+11,Maria Santos,50221290605,c11@hotmail.com,11924223411
+12,Pedro Costa,55566677788,c12@yahoo.com.br,11926408549
+13,Pedro Costa,60608761290,c13@hotmail.com,11926408549
+14,Maria Santos,98381654840,c14@hotmail.com,11935017897
+15,Ana Souza,98381654840,c15@yahoo.com.br,11965502825
+16,Pedro Costa,07370382257,c16@hotmail.com,11987241247
+17,Pedro Costa,55566677788,c17@gmail.com,11959807888
+18,Carlos Oliveira,04335195095,c18@hotmail.com,11995970399
+19,Ana Souza,12345678909,c19@gmail.com,11922015099
+20,João Silva,60608761290,c20@hotmail.com,11959311586
+21,Carlos Oliveira,12345678909,c21@hotmail.com,11953872561
+22,Maria Santos,52998224725,c22@hotmail.com,11932111077
+23,João Silva,12345678909,c23@hotmail.com,11986645968
+24,Ana Souza,52998224725,c24@yahoo.com.br,11987253051
+25,Ana Souza,60608761290,c25@yahoo.com.br,11972787513
+26,Maria Santos,60608761290,c26@gmail.com,11987241247
+27,Carlos Oliveira,12345678909,c27@hotmail.com,11917662165
+28,Maria Santos,12345678909,c28@yahoo.com.br,11968194980
+29,Pedro Costa,98381654840,c29@yahoo.com.br,11944532247
+30,Pedro Costa,98381654840,c30@gmail.com,11987241247
+31,Pedro Costa,52998224725,c31@gmail.com,11987241247
+32,Pedro Costa,04335195095,c32@gmail.com,11953872561
+33,Ana Souza,52998224725,c33@hotmail.com,11961579607
+34,Maria Santos,50221290605,c34@yahoo.com.br,11950841977
+35,Ana Souza,12345678909,c35@hotmail.com,11960230683
+36,Carlos Oliveira,50221290605,c36@hotmail.com,11995970399
+37,Carlos Oliveira,04335195095,c37@gmail.com,11927039022
+38,Pedro Costa,07370382257,c38@yahoo.com.br,11951345045
+39,Pedro Costa,11122233344,c39@hotmail.com,11950296000
+40,Carlos Oliveira,60608761290,c40@yahoo.com.br,11927637514
+41,Pedro Costa,07370382257,c41@yahoo.com.br,11951345045
+42,Maria Santos,07370382257,c42@yahoo.com.br,11966765147
+43,Carlos Oliveira,04335195095,c43@yahoo.com.br,11966765147
+44,Carlos Oliveira,04335195095,c44@hotmail.com,11950296000
+45,João Silva,98381654840,c45@gmail.com,11959311586
+46,Maria Santos,55566677788,c46@gmail.com,11957788503
+47,João Silva,12345678909,c47@yahoo.com.br,11988090903
+48,Pedro Costa,62597761525,c48@yahoo.com.br,11954837316
+49,Maria Santos,62597761525,c49@yahoo.com.br,11957959801
+50,Carlos Oliveira,98381654840,c50@gmail.com,11935017897
+51,Pedro Costa,04335195095,c51@hotmail.com,11976021176
+52,Carlos Oliveira,11122233344,c52@gmail.com,11917662165
+53,Ana Souza,12345678909,c53@yahoo.com.br,11987253051
+54,Maria Santos,04335195095,c54@hotmail.com,11941988902
+55,Maria Santos,12345678909,c55@yahoo.com.br,11960230683
+56,Ana Souza,52998224725,c56@gmail.com,11941988902
+57,Ana Souza,55566677788,c57@yahoo.com.br,11974110618
+58,Pedro Costa,60608761290,c58@gmail.com,11989095795
+59,João Silva,07370382257,c59@gmail.com,11976021176
+60,Ana Souza,52998224725,c60@yahoo.com.br,11974591337
+61,Carlos Oliveira,11122233344,c61@gmail.com,11966765147
+62,João Silva,11122233344,c62@hotmail.com,11927637514
+63,Pedro Costa,12345678909,c63@yahoo.com.br,11961094490
+64,Maria Santos,55566677788,c64@hotmail.com,11977038712
+65,Maria Santos,60608761290,c65@gmail.com,11935366054
+66,Maria Santos,52998224725,c66@gmail.com,11910229709
+67,Ana Souza,55566677788,c67@hotmail.com,11960230683
+68,Maria Santos,11122233344,c68@hotmail.com,11918270054
+69,Pedro Costa,60608761290,c69@hotmail.com,11932111077
+70,Pedro Costa,52998224725,c70@yahoo.com.br,11943190028
+71,Ana Souza,98381654840,c71@gmail.com,11960230683
+72,Ana Souza,50221290605,c72@yahoo.com.br,11935456800
+73,Carlos Oliveira,07370382257,c73@gmail.com,11956008348
+74,Pedro Costa,55566677788,c74@gmail.com,11939988016
+75,Pedro Costa,55566677788,c75@gmail.com,11950296000
+76,Pedro Costa,12345678909,c76@gmail.com,11943965146
+77,João Silva,04335195095,c77@gmail.com,11974110618
+78,João Silva,07370382257,c78@yahoo.com.br,11974110618
+79,Pedro Costa,62597761525,c79@gmail.com,11978182017
+80,Ana Souza,52998224725,c80@hotmail.com,11929017409
+81,Ana Souza,52998224725,c81@yahoo.com.br,11953872561
+82,João Silva,12345678909,c82@yahoo.com.br,11926408549
+83,Pedro Costa,62597761525,c83@yahoo.com.br,11910229709
+84,Ana Souza,50221290605,c84@hotmail.com,11969830829
+85,Carlos Oliveira,52998224725,c85@hotmail.com,11951659482
+86,Pedro Costa,52998224725,c86@hotmail.com,11932150241
+87,Carlos Oliveira,04335195095,c87@hotmail.com,11989095795
+88,Pedro Costa,50221290605,c88@yahoo.com.br,11932467707
+89,João Silva,52998224725,c89@hotmail.com,11919158968
+90,João Silva,11122233344,c90@yahoo.com.br,11974110618
+91,Carlos Oliveira,62597761525,c91@hotmail.com,11932111077
+92,Pedro Costa,55566677788,c92@hotmail.com,11911187029
+93,Carlos Oliveira,07370382257,c93@yahoo.com.br,11935366054
+94,Maria Santos,04335195095,c94@hotmail.com,11943190028
+95,Ana Souza,04335195095,c95@gmail.com,11972787513
+96,Ana Souza,60608761290,c96@hotmail.com,11932111077
+97,Ana Souza,52998224725,c97@hotmail.com,11976021176
+98,Carlos Oliveira,52998224725,c98@hotmail.com,11924481565
+99,Carlos Oliveira,50221290605,c99@yahoo.com.br,11974110618
+100,Maria Santos,52998224725,c100@gmail.com,11972787513
+101,Carlos Oliveira,55566677788,c101@gmail.com,11988772932
+102,Ana Souza,04335195095,c102@gmail.com,11944340432
+103,Carlos Oliveira,55566677788,c103@gmail.com,11986645968
+104,Ana Souza,55566677788,c104@hotmail.com,11989632241
+105,Carlos Oliveira,07370382257,c105@hotmail.com,11944532247
+106,Maria Santos,12345678909,c106@gmail.com,11941988902
+107,Maria Santos,07370382257,c107@yahoo.com.br,11917816403
+108,Pedro Costa,50221290605,c108@gmail.com,11935456800
+109,Maria Santos,11122233344,c109@gmail.com,11927039022
+110,Maria Santos,07370382257,c110@hotmail.com,11917816403
+111,João Silva,12345678909,c111@yahoo.com.br,11961094490
+112,Carlos Oliveira,62597761525,c112@gmail.com,11988090903
+113,Maria Santos,07370382257,c113@gmail.com,11979277313
+114,Maria Santos,12345678909,c114@yahoo.com.br,11944532247
+115,Carlos Oliveira,07370382257,c115@yahoo.com.br,11979096000
+116,Maria Santos,52998224725,c116@yahoo.com.br,11935097181
+117,Maria Santos,98381654840,c117@gmail.com,11932111077
+118,Ana Souza,12345678909,c118@gmail.com,11925034221
+119,Pedro Costa,07370382257,c119@gmail.com,11972787513
+120,Ana Souza,50221290605,c120@yahoo.com.br,11929868154
+121,João Silva,12345678909,c121@gmail.com,11960157947
+122,Ana Souza,98381654840,c122@yahoo.com.br,11951659482
+123,Carlos Oliveira,62597761525,c123@yahoo.com.br,11978182017
+124,Ana Souza,07370382257,c124@gmail.com,11929868154
+125,João Silva,60608761290,c125@yahoo.com.br,11968194980
+126,Carlos Oliveira,04335195095,c126@yahoo.com.br,11925394836
+127,Pedro Costa,50221290605,c127@yahoo.com.br,11912836654
+128,Pedro Costa,04335195095,c128@gmail.com,11950296000
+129,Maria Santos,11122233344,c129@gmail.com,11979277313
+130,Carlos Oliveira,11122233344,c130@yahoo.com.br,11922015099
+131,Ana Souza,07370382257,c131@gmail.com,11988090903
+132,Pedro Costa,62597761525,c132@hotmail.com,11966599806
+133,Ana Souza,04335195095,c133@hotmail.com,11978182017
+134,Maria Santos,07370382257,c134@yahoo.com.br,11926408549
+135,Ana Souza,50221290605,c135@hotmail.com,11932684900
+136,Carlos Oliveira,62597761525,c136@hotmail.com,11963878778
+137,João Silva,07370382257,c137@gmail.com,11989632241
+138,João Silva,11122233344,c138@yahoo.com.br,11935097181
+139,João Silva,52998224725,c139@gmail.com,11935366054
+140,Pedro Costa,62597761525,c140@gmail.com,11989095795
+141,Carlos Oliveira,07370382257,c141@gmail.com,11979277313
+142,João Silva,11122233344,c142@yahoo.com.br,11911187029
+143,Maria Santos,55566677788,c143@hotmail.com,11939425680
+144,Pedro Costa,07370382257,c144@hotmail.com,11939988016
+145,Ana Souza,11122233344,c145@hotmail.com,11960151391
+146,Pedro Costa,11122233344,c146@gmail.com,11983769502
+147,Pedro Costa,11122233344,c147@hotmail.com,11922015099
+148,João Silva,52998224725,c148@yahoo.com.br,11953872561
+149,Carlos Oliveira,12345678909,c149@yahoo.com.br,11987253051
+150,Pedro Costa,12345678909,c150@hotmail.com,11979096000
+151,Maria Santos,04335195095,c151@hotmail.com,11919371710
+152,Pedro Costa,07370382257,c152@hotmail.com,11961579607
+153,Pedro Costa,50221290605,c153@hotmail.com,11919371710
+154,Ana Souza,12345678909,c154@yahoo.com.br,11966765147
+155,João Silva,55566677788,c155@yahoo.com.br,11960157947
+156,João Silva,12345678909,c156@yahoo.com.br,11966599806
+157,Maria Santos,12345678909,c157@yahoo.com.br,11912836654
+158,Pedro Costa,04335195095,c158@gmail.com,11932467707
+159,Carlos Oliveira,55566677788,c159@hotmail.com,11917816403
+160,Pedro Costa,12345678909,c160@hotmail.com,11943965146
+161,Maria Santos,07370382257,c161@hotmail.com,11944532247
+162,Pedro Costa,11122233344,c162@hotmail.com,11965502825
+163,Ana Souza,07370382257,c163@hotmail.com,11972787513
+164,João Silva,12345678909,c164@yahoo.com.br,11932150241
+165,Maria Santos,98381654840,c165@yahoo.com.br,11927615156
+166,Ana Souza,50221290605,c166@yahoo.com.br,11998437369
+167,Maria Santos,55566677788,c167@yahoo.com.br,11974591337
+168,Carlos Oliveira,07370382257,c168@yahoo.com.br,11929017409
+169,Carlos Oliveira,04335195095,c169@yahoo.com.br,11917662165
+170,Ana Souza,11122233344,c170@hotmail.com,11924223411
+171,Maria Santos,04335195095,c171@hotmail.com,11965502825
+172,Ana Souza,55566677788,c172@gmail.com,11922015099
+173,Maria Santos,62597761525,c173@hotmail.com,11935366054
+174,João Silva,52998224725,c174@hotmail.com,11926408549
+175,Maria Santos,12345678909,c175@yahoo.com.br,11927039022
+176,Carlos Oliveira,98381654840,c176@yahoo.com.br,11960151391
+177,Carlos Oliveira,98381654840,c177@gmail.com,11935097181
+178,Ana Souza,04335195095,c178@hotmail.com,11956008348
+179,Ana Souza,11122233344,c179@gmail.com,11917662165
+180,João Silva,04335195095,c180@gmail.com,11987241247

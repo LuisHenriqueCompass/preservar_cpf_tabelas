@@ -1,401 +1,241 @@
-cpf,ano,mes,renda,status,score
-07370382257,ano_7500,mes_5223,"Av Paulista, 990",status_9378,score_4226
-12345678909,ano_9428,mes_4412,"Rua Augusta, 504",status_8978,score_1248
-55566677788,ano_2725,mes_6581,"Rua Augusta, 225",status_8561,score_4901
-52998224725,ano_6065,mes_7607,"Rua das Flores, 110",status_4557,score_5787
-60608761290,ano_1044,mes_5616,"Rua da Consolação, 78",status_7898,score_1473
-07370382257,ano_7599,mes_8944,"Rua Augusta, 573",status_3971,score_9149
-12345678909,ano_2173,mes_3904,"Rua das Flores, 236",status_3609,score_9195
-55566677788,ano_3753,mes_4254,"Av Paulista, 467",status_3109,score_7991
-52998224725,ano_6677,mes_6599,"Rua da Consolação, 131",status_8875,score_8168
-60608761290,ano_6062,mes_8941,"Rua Augusta, 958",status_6781,score_9048
-07370382257,ano_7226,mes_4101,"Rua da Consolação, 745",status_7007,score_2567
-12345678909,ano_3045,mes_6514,"Rua da Consolação, 472",status_3637,score_1916
-55566677788,ano_9809,mes_8118,"Av Paulista, 665",status_6773,score_6677
-52998224725,ano_5185,mes_6464,"Av Brasil, 802",status_3284,score_6244
-60608761290,ano_9458,mes_9341,"Rua das Flores, 218",status_9322,score_1474
-07370382257,ano_2272,mes_8818,"Av Paulista, 176",status_2050,score_6870
-12345678909,ano_1938,mes_2308,"Rua Augusta, 785",status_5784,score_5752
-55566677788,ano_7899,mes_7168,"Rua da Consolação, 437",status_9566,score_8735
-52998224725,ano_9343,mes_2625,"Rua Augusta, 506",status_3302,score_9787
-60608761290,ano_2773,mes_2727,"Rua das Flores, 611",status_8724,score_1866
-07370382257,ano_2754,mes_4141,"Rua da Consolação, 921",status_6658,score_1623
-12345678909,ano_6634,mes_9904,"Rua da Consolação, 197",status_8012,score_7123
-55566677788,ano_9565,mes_6759,"Rua Augusta, 586",status_1253,score_6619
-52998224725,ano_7725,mes_6960,"Rua Augusta, 772",status_4258,score_1609
-60608761290,ano_6837,mes_3056,"Rua das Flores, 799",status_2942,score_2307
-07370382257,ano_3212,mes_5467,"Rua Augusta, 577",status_9978,score_4722
-12345678909,ano_4546,mes_2727,"Rua da Consolação, 655",status_6298,score_7006
-55566677788,ano_8726,mes_4482,"Av Brasil, 237",status_6929,score_5105
-52998224725,ano_8749,mes_2121,"Rua das Flores, 667",status_5273,score_1976
-60608761290,ano_1503,mes_1663,"Av Brasil, 876",status_2007,score_5678
-07370382257,ano_3996,mes_6866,"Av Brasil, 9",status_1233,score_4167
-12345678909,ano_6088,mes_2901,"Rua das Flores, 561",status_8801,score_3688
-55566677788,ano_7115,mes_8515,"Rua da Consolação, 961",status_1666,score_4834
-52998224725,ano_7031,mes_6479,"Rua Augusta, 121",status_7046,score_2556
-60608761290,ano_5085,mes_3827,"Rua da Consolação, 666",status_3723,score_6175
-07370382257,ano_2545,mes_7422,"Rua da Consolação, 779",status_8708,score_4405
-12345678909,ano_3873,mes_2077,"Rua Augusta, 438",status_3799,score_5040
-55566677788,ano_9008,mes_1096,"Av Brasil, 744",status_1048,score_5774
-52998224725,ano_7817,mes_8606,"Av Paulista, 685",status_9003,score_3560
-60608761290,ano_9624,mes_8578,"Rua das Flores, 999",status_2894,score_3333
-07370382257,ano_4546,mes_7499,"Rua das Flores, 709",status_4467,score_9291
-12345678909,ano_5714,mes_5160,"Rua das Flores, 22",status_4953,score_3428
-55566677788,ano_6787,mes_5019,"Rua Augusta, 486",status_1287,score_8580
-52998224725,ano_4717,mes_1692,"Av Paulista, 445",status_6682,score_6178
-60608761290,ano_4794,mes_9757,"Rua das Flores, 441",status_4311,score_9554
-07370382257,ano_2080,mes_8842,"Av Paulista, 516",status_5118,score_7333
-12345678909,ano_5804,mes_1457,"Rua das Flores, 275",status_7964,score_2434
-55566677788,ano_4911,mes_7883,"Av Brasil, 590",status_5990,score_4775
-52998224725,ano_4534,mes_8842,"Av Paulista, 497",status_6874,score_1084
-60608761290,ano_5368,mes_7540,"Av Brasil, 805",status_6806,score_7224
-07370382257,ano_4868,mes_7937,"Av Brasil, 625",status_8696,score_1766
-12345678909,ano_8218,mes_2189,"Av Paulista, 563",status_3353,score_2207
-55566677788,ano_4227,mes_5331,"Av Paulista, 295",status_7426,score_3918
-52998224725,ano_2512,mes_1262,"Rua Augusta, 826",status_4573,score_3574
-60608761290,ano_1916,mes_2073,"Av Brasil, 430",status_9118,score_5706
-07370382257,ano_4885,mes_9247,"Av Paulista, 963",status_4536,score_9378
-12345678909,ano_2633,mes_4972,"Rua Augusta, 469",status_1673,score_6102
-55566677788,ano_7455,mes_8351,"Rua Augusta, 220",status_4427,score_4882
-52998224725,ano_4319,mes_2378,"Av Brasil, 772",status_1009,score_9791
-60608761290,ano_6662,mes_3284,"Av Brasil, 568",status_5947,score_2504
-07370382257,ano_3103,mes_4223,"Rua da Consolação, 681",status_1018,score_7734
-12345678909,ano_7287,mes_9968,"Rua da Consolação, 598",status_3585,score_8625
-55566677788,ano_3176,mes_1653,"Av Brasil, 283",status_3065,score_2042
-52998224725,ano_4311,mes_7316,"Rua da Consolação, 291",status_6277,score_9647
-60608761290,ano_4493,mes_9862,"Av Brasil, 808",status_7893,score_2071
-07370382257,ano_3046,mes_9477,"Av Paulista, 878",status_9771,score_9282
-12345678909,ano_4077,mes_2230,"Av Brasil, 520",status_6895,score_9489
-55566677788,ano_9674,mes_8188,"Rua Augusta, 796",status_5118,score_2961
-52998224725,ano_3902,mes_4501,"Rua da Consolação, 88",status_7511,score_6126
-60608761290,ano_1302,mes_7736,"Rua Augusta, 68",status_2797,score_2531
-07370382257,ano_5294,mes_3715,"Av Brasil, 366",status_7991,score_7110
-12345678909,ano_2057,mes_9359,"Rua das Flores, 271",status_8272,score_8976
-55566677788,ano_5985,mes_9450,"Rua das Flores, 923",status_1446,score_1225
-52998224725,ano_8555,mes_3504,"Rua da Consolação, 874",status_5192,score_8181
-60608761290,ano_1803,mes_5201,"Av Brasil, 84",status_4137,score_8266
-07370382257,ano_2565,mes_3332,"Rua da Consolação, 445",status_4379,score_7381
-12345678909,ano_7407,mes_5485,"Rua Augusta, 763",status_3168,score_4507
-55566677788,ano_8377,mes_5907,"Rua das Flores, 901",status_5473,score_2832
-52998224725,ano_7777,mes_1795,"Rua Augusta, 393",status_9331,score_4091
-60608761290,ano_1807,mes_1271,"Av Paulista, 207",status_5102,score_3482
-07370382257,ano_7432,mes_3001,"Av Brasil, 544",status_6245,score_9462
-12345678909,ano_8711,mes_9612,"Rua das Flores, 82",status_7115,score_4147
-55566677788,ano_8426,mes_7283,"Av Brasil, 862",status_1444,score_5406
-52998224725,ano_6830,mes_3597,"Rua das Flores, 149",status_2225,score_9988
-60608761290,ano_6519,mes_3645,"Rua Augusta, 818",status_7613,score_6302
-07370382257,ano_9734,mes_5804,"Rua das Flores, 166",status_6507,score_2145
-12345678909,ano_9300,mes_6299,"Av Brasil, 532",status_8431,score_1429
-55566677788,ano_6204,mes_1610,"Av Brasil, 986",status_7774,score_3626
-52998224725,ano_2081,mes_1253,"Rua das Flores, 472",status_8996,score_8168
-60608761290,ano_5645,mes_8360,"Av Paulista, 504",status_7656,score_8095
-07370382257,ano_6997,mes_2989,"Rua das Flores, 328",status_7508,score_6438
-12345678909,ano_4044,mes_3095,"Av Brasil, 614",status_9475,score_5185
-55566677788,ano_4921,mes_3906,"Rua das Flores, 71",status_1640,score_2583
-52998224725,ano_7838,mes_6093,"Rua da Consolação, 859",status_8709,score_6889
-60608761290,ano_6254,mes_4549,"Av Brasil, 893",status_2722,score_4329
-07370382257,ano_4053,mes_4188,"Rua da Consolação, 853",status_2560,score_4513
-12345678909,ano_3962,mes_9296,"Rua das Flores, 726",status_4985,score_2753
-55566677788,ano_3153,mes_2225,"Rua da Consolação, 54",status_7649,score_2040
-52998224725,ano_3800,mes_9347,"Rua da Consolação, 639",status_8934,score_6710
-60608761290,ano_4742,mes_9763,"Rua da Consolação, 871",status_9893,score_4608
-07370382257,ano_1130,mes_9508,"Rua Augusta, 144",status_2002,score_6603
-12345678909,ano_8345,mes_8599,"Av Brasil, 464",status_7033,score_9430
-55566677788,ano_3597,mes_2357,"Av Paulista, 732",status_7659,score_9179
-52998224725,ano_3300,mes_7892,"Av Paulista, 446",status_5326,score_2257
-60608761290,ano_7810,mes_4042,"Rua das Flores, 323",status_3521,score_5819
-07370382257,ano_2908,mes_2149,"Rua da Consolação, 734",status_5363,score_5813
-12345678909,ano_5184,mes_6800,"Rua Augusta, 768",status_1361,score_2069
-55566677788,ano_2541,mes_4977,"Rua das Flores, 639",status_4901,score_7300
-52998224725,ano_8684,mes_9302,"Av Paulista, 410",status_6641,score_3034
-60608761290,ano_1742,mes_8501,"Rua das Flores, 66",status_4535,score_1263
-07370382257,ano_9591,mes_3534,"Av Brasil, 209",status_2656,score_1265
-12345678909,ano_6749,mes_1843,"Av Brasil, 235",status_3104,score_7149
-55566677788,ano_7449,mes_4678,"Rua Augusta, 340",status_8501,score_6698
-52998224725,ano_3327,mes_1553,"Av Paulista, 733",status_6297,score_9307
-60608761290,ano_1408,mes_7122,"Rua da Consolação, 444",status_7063,score_7989
-07370382257,ano_4095,mes_9222,"Rua da Consolação, 3",status_7556,score_5825
-12345678909,ano_3850,mes_6963,"Av Paulista, 590",status_1608,score_9551
-55566677788,ano_6018,mes_9971,"Av Paulista, 835",status_5594,score_5047
-52998224725,ano_2488,mes_3225,"Rua da Consolação, 184",status_3200,score_4207
-60608761290,ano_1912,mes_7326,"Rua da Consolação, 736",status_1906,score_3249
-07370382257,ano_3061,mes_7572,"Rua Augusta, 187",status_4370,score_8138
-12345678909,ano_5623,mes_4611,"Av Paulista, 714",status_1229,score_7350
-55566677788,ano_9299,mes_1558,"Rua Augusta, 674",status_4162,score_3941
-52998224725,ano_2478,mes_8391,"Av Paulista, 879",status_6467,score_3761
-60608761290,ano_5744,mes_6729,"Rua Augusta, 351",status_7757,score_5833
-07370382257,ano_3825,mes_7195,"Rua da Consolação, 5",status_3121,score_4831
-12345678909,ano_9528,mes_8772,"Av Paulista, 671",status_8709,score_4788
-55566677788,ano_5118,mes_2301,"Rua da Consolação, 611",status_9924,score_7509
-52998224725,ano_7603,mes_3251,"Av Paulista, 860",status_6548,score_4896
-60608761290,ano_9908,mes_2099,"Av Brasil, 330",status_9160,score_7017
-07370382257,ano_6020,mes_7140,"Rua da Consolação, 617",status_2361,score_9901
-12345678909,ano_3666,mes_5533,"Rua da Consolação, 166",status_1681,score_5073
-55566677788,ano_5074,mes_5344,"Av Paulista, 33",status_6484,score_3224
-52998224725,ano_4374,mes_3992,"Rua da Consolação, 146",status_9479,score_7456
-60608761290,ano_3305,mes_9768,"Rua da Consolação, 533",status_5159,score_7708
-07370382257,ano_1167,mes_4376,"Rua das Flores, 747",status_6873,score_3588
-12345678909,ano_5676,mes_6033,"Rua da Consolação, 688",status_5999,score_7456
-55566677788,ano_8612,mes_5932,"Av Brasil, 750",status_8733,score_6559
-52998224725,ano_9706,mes_9426,"Av Paulista, 451",status_6716,score_6171
-60608761290,ano_8939,mes_8305,"Rua da Consolação, 704",status_5045,score_6117
-07370382257,ano_9897,mes_1872,"Rua da Consolação, 571",status_6249,score_1719
-12345678909,ano_4064,mes_5127,"Rua Augusta, 818",status_5043,score_9841
-55566677788,ano_4199,mes_5140,"Rua da Consolação, 599",status_7467,score_1939
-52998224725,ano_7990,mes_8094,"Av Paulista, 472",status_6142,score_9391
-60608761290,ano_4679,mes_9451,"Av Paulista, 408",status_4170,score_7387
-07370382257,ano_9168,mes_9887,"Av Brasil, 134",status_5664,score_3813
-12345678909,ano_4726,mes_7647,"Av Brasil, 249",status_9641,score_5882
-55566677788,ano_3269,mes_7916,"Rua Augusta, 150",status_6449,score_4629
-52998224725,ano_4974,mes_1941,"Rua Augusta, 691",status_4859,score_5037
-60608761290,ano_2555,mes_9059,"Rua Augusta, 106",status_5694,score_7946
-07370382257,ano_3578,mes_5203,"Av Paulista, 135",status_7135,score_8247
-12345678909,ano_7106,mes_1262,"Av Brasil, 681",status_2100,score_6136
-55566677788,ano_2842,mes_5278,"Rua das Flores, 260",status_5695,score_3201
-52998224725,ano_6591,mes_8939,"Rua das Flores, 324",status_9849,score_1850
-60608761290,ano_9562,mes_6312,"Rua das Flores, 815",status_7475,score_3163
-07370382257,ano_8416,mes_7476,"Av Paulista, 772",status_7718,score_3623
-12345678909,ano_9839,mes_2524,"Rua da Consolação, 532",status_5327,score_5458
-55566677788,ano_4700,mes_4607,"Rua da Consolação, 417",status_7192,score_4652
-52998224725,ano_9252,mes_3594,"Av Brasil, 788",status_7730,score_5606
-60608761290,ano_1614,mes_4208,"Av Paulista, 758",status_4683,score_2329
-07370382257,ano_4377,mes_1199,"Av Paulista, 628",status_7207,score_6824
-12345678909,ano_3846,mes_6285,"Rua da Consolação, 128",status_5596,score_5865
-55566677788,ano_9318,mes_3217,"Av Brasil, 644",status_9268,score_2420
-52998224725,ano_4482,mes_8450,"Rua da Consolação, 129",status_6262,score_9451
-60608761290,ano_3458,mes_7868,"Rua das Flores, 823",status_8611,score_2866
-07370382257,ano_4199,mes_6756,"Av Paulista, 314",status_5568,score_7721
-12345678909,ano_9563,mes_4654,"Rua das Flores, 101",status_5157,score_9615
-55566677788,ano_4773,mes_9442,"Av Paulista, 549",status_2720,score_7057
-52998224725,ano_6118,mes_7402,"Av Paulista, 407",status_3914,score_5761
-60608761290,ano_5560,mes_7982,"Rua das Flores, 445",status_3801,score_3954
-07370382257,ano_7533,mes_6762,"Av Brasil, 781",status_8015,score_4563
-12345678909,ano_4503,mes_1533,"Rua das Flores, 141",status_7549,score_1746
-55566677788,ano_1299,mes_1255,"Rua da Consolação, 202",status_5531,score_7177
-52998224725,ano_4160,mes_2460,"Rua Augusta, 626",status_2643,score_1986
-60608761290,ano_4675,mes_3491,"Rua da Consolação, 449",status_2044,score_8390
-07370382257,ano_9380,mes_9765,"Rua da Consolação, 470",status_2670,score_6281
-12345678909,ano_7669,mes_7428,"Rua das Flores, 854",status_9186,score_3186
-55566677788,ano_8198,mes_2126,"Rua Augusta, 926",status_9996,score_6706
-52998224725,ano_4960,mes_7380,"Av Brasil, 63",status_4016,score_7435
-60608761290,ano_4750,mes_3011,"Av Brasil, 313",status_4847,score_3830
-07370382257,ano_6111,mes_6355,"Av Paulista, 973",status_1847,score_5613
-12345678909,ano_4867,mes_6717,"Rua das Flores, 954",status_1696,score_8293
-55566677788,ano_5625,mes_5585,"Rua da Consolação, 107",status_3423,score_4380
-52998224725,ano_1393,mes_7354,"Rua da Consolação, 281",status_6342,score_6214
-60608761290,ano_9602,mes_6559,"Rua das Flores, 68",status_3488,score_6830
-07370382257,ano_8382,mes_1050,"Rua das Flores, 446",status_1235,score_5556
-12345678909,ano_2729,mes_4074,"Av Brasil, 952",status_2107,score_5754
-55566677788,ano_4913,mes_4965,"Rua das Flores, 991",status_1212,score_7910
-52998224725,ano_4513,mes_5067,"Rua Augusta, 443",status_9065,score_2842
-60608761290,ano_5425,mes_4993,"Av Paulista, 183",status_3357,score_4780
-07370382257,ano_8857,mes_4547,"Rua Augusta, 182",status_4856,score_7912
-12345678909,ano_3734,mes_9636,"Rua das Flores, 319",status_9858,score_9154
-55566677788,ano_4413,mes_4712,"Av Brasil, 90",status_5531,score_3102
-52998224725,ano_7215,mes_6270,"Rua Augusta, 774",status_3220,score_9925
-60608761290,ano_5883,mes_7760,"Av Paulista, 885",status_9612,score_9917
-07370382257,ano_8000,mes_2971,"Rua da Consolação, 525",status_4728,score_5448
-12345678909,ano_4834,mes_1530,"Rua Augusta, 313",status_2501,score_9237
-55566677788,ano_9350,mes_1561,"Rua das Flores, 572",status_2841,score_8849
-52998224725,ano_7356,mes_8327,"Rua Augusta, 469",status_5971,score_3673
-60608761290,ano_9856,mes_4847,"Av Brasil, 780",status_9110,score_7655
-07370382257,ano_9267,mes_2377,"Rua da Consolação, 24",status_3524,score_5612
-12345678909,ano_7812,mes_5858,"Rua Augusta, 550",status_6811,score_2418
-55566677788,ano_6350,mes_9078,"Rua das Flores, 213",status_7293,score_4609
-52998224725,ano_4400,mes_1607,"Rua da Consolação, 194",status_6358,score_1973
-60608761290,ano_3917,mes_2360,"Rua das Flores, 461",status_9379,score_8331
-07370382257,ano_3306,mes_6592,"Rua da Consolação, 318",status_2440,score_8879
-12345678909,ano_2315,mes_9557,"Rua Augusta, 710",status_6879,score_5339
-55566677788,ano_4891,mes_7998,"Rua Augusta, 991",status_3467,score_3540
-52998224725,ano_5624,mes_6214,"Av Brasil, 359",status_2270,score_8538
-60608761290,ano_2043,mes_3679,"Av Paulista, 723",status_1357,score_4335
-07370382257,ano_1857,mes_7125,"Av Paulista, 545",status_4852,score_3389
-12345678909,ano_5747,mes_6045,"Av Brasil, 947",status_1786,score_3844
-55566677788,ano_3246,mes_6515,"Av Brasil, 224",status_7570,score_1999
-52998224725,ano_2873,mes_1304,"Rua das Flores, 749",status_4293,score_4031
-60608761290,ano_7016,mes_1345,"Av Brasil, 62",status_2153,score_6760
-07370382257,ano_2468,mes_7788,"Rua das Flores, 614",status_2689,score_1050
-12345678909,ano_6678,mes_7487,"Rua das Flores, 197",status_5750,score_5505
-55566677788,ano_3398,mes_1516,"Rua da Consolação, 483",status_2427,score_2598
-52998224725,ano_6381,mes_7922,"Rua das Flores, 916",status_1050,score_2282
-60608761290,ano_9859,mes_1993,"Rua da Consolação, 961",status_1749,score_4158
-07370382257,ano_3601,mes_6575,"Rua das Flores, 77",status_6139,score_7965
-12345678909,ano_1542,mes_8795,"Rua das Flores, 638",status_7064,score_5920
-55566677788,ano_3859,mes_6678,"Rua Augusta, 562",status_5500,score_9295
-52998224725,ano_7822,mes_9656,"Av Paulista, 898",status_8798,score_3697
-60608761290,ano_6340,mes_8904,"Av Brasil, 991",status_1364,score_3882
-07370382257,ano_2624,mes_6903,"Rua das Flores, 283",status_4595,score_2138
-12345678909,ano_6894,mes_5351,"Rua Augusta, 224",status_8911,score_6285
-55566677788,ano_1306,mes_1804,"Av Brasil, 71",status_6358,score_6596
-52998224725,ano_8954,mes_9750,"Av Brasil, 790",status_5999,score_8426
-60608761290,ano_5556,mes_7713,"Rua das Flores, 577",status_5345,score_2769
-07370382257,ano_7861,mes_5110,"Rua Augusta, 5",status_4762,score_6802
-12345678909,ano_3306,mes_1711,"Rua Augusta, 660",status_1076,score_8105
-55566677788,ano_4338,mes_7793,"Rua da Consolação, 679",status_4555,score_2858
-52998224725,ano_1821,mes_9779,"Rua da Consolação, 473",status_2535,score_6110
-60608761290,ano_5561,mes_9585,"Rua Augusta, 492",status_4520,score_1662
-07370382257,ano_7427,mes_1746,"Rua da Consolação, 729",status_4116,score_6033
-12345678909,ano_6576,mes_2610,"Rua das Flores, 948",status_6528,score_5617
-55566677788,ano_1023,mes_3604,"Rua das Flores, 551",status_1496,score_2173
-52998224725,ano_9610,mes_7946,"Rua das Flores, 208",status_9087,score_3242
-60608761290,ano_7274,mes_2389,"Av Paulista, 702",status_1915,score_9487
-07370382257,ano_5736,mes_6340,"Rua das Flores, 763",status_1642,score_9451
-12345678909,ano_7324,mes_1393,"Av Brasil, 711",status_7058,score_1408
-55566677788,ano_1212,mes_4678,"Rua da Consolação, 482",status_2244,score_7184
-52998224725,ano_4124,mes_1684,"Av Brasil, 650",status_9095,score_2114
-60608761290,ano_6415,mes_8362,"Av Brasil, 473",status_2433,score_2695
-07370382257,ano_3875,mes_9293,"Av Paulista, 962",status_5054,score_1460
-12345678909,ano_3412,mes_1334,"Av Paulista, 492",status_1264,score_4845
-55566677788,ano_4441,mes_4006,"Rua da Consolação, 198",status_7798,score_8961
-52998224725,ano_5141,mes_5185,"Rua da Consolação, 274",status_6594,score_7442
-60608761290,ano_4769,mes_7087,"Av Brasil, 753",status_1124,score_3487
-07370382257,ano_8996,mes_2636,"Rua Augusta, 816",status_5579,score_3594
-12345678909,ano_4584,mes_1589,"Av Brasil, 803",status_1427,score_8694
-55566677788,ano_3496,mes_3542,"Av Paulista, 866",status_4351,score_1379
-52998224725,ano_6184,mes_3821,"Av Paulista, 642",status_8516,score_6007
-60608761290,ano_3685,mes_5090,"Rua da Consolação, 897",status_6322,score_3961
-07370382257,ano_8419,mes_9355,"Rua Augusta, 391",status_7474,score_5110
-12345678909,ano_5543,mes_3186,"Rua das Flores, 952",status_9828,score_4158
-55566677788,ano_4233,mes_3468,"Av Brasil, 937",status_4833,score_9256
-52998224725,ano_8033,mes_9206,"Rua Augusta, 605",status_3010,score_6644
-60608761290,ano_4345,mes_9103,"Rua Augusta, 211",status_9532,score_8386
-07370382257,ano_4278,mes_6834,"Rua Augusta, 509",status_6383,score_1252
-12345678909,ano_7943,mes_1472,"Rua Augusta, 983",status_1368,score_2742
-55566677788,ano_7198,mes_3247,"Av Paulista, 514",status_7683,score_5994
-52998224725,ano_5284,mes_7432,"Rua Augusta, 471",status_6666,score_2943
-60608761290,ano_9696,mes_4359,"Rua Augusta, 820",status_1748,score_2815
-07370382257,ano_9990,mes_3241,"Av Brasil, 107",status_4798,score_2323
-12345678909,ano_8482,mes_3179,"Av Brasil, 700",status_4976,score_8712
-55566677788,ano_2099,mes_8873,"Rua Augusta, 859",status_4974,score_2091
-52998224725,ano_7484,mes_6886,"Rua Augusta, 614",status_8666,score_3822
-60608761290,ano_5589,mes_7464,"Rua Augusta, 43",status_3375,score_7276
-07370382257,ano_4170,mes_6535,"Rua das Flores, 892",status_8588,score_3960
-12345678909,ano_9973,mes_7350,"Rua das Flores, 780",status_3932,score_1185
-55566677788,ano_6294,mes_9131,"Rua da Consolação, 138",status_8673,score_5861
-52998224725,ano_4028,mes_3185,"Rua Augusta, 816",status_9706,score_3585
-60608761290,ano_3622,mes_4526,"Rua das Flores, 98",status_3417,score_4522
-07370382257,ano_3593,mes_8593,"Rua Augusta, 239",status_3708,score_5010
-12345678909,ano_3854,mes_8609,"Av Paulista, 507",status_5670,score_2109
-55566677788,ano_2585,mes_6868,"Rua das Flores, 582",status_3688,score_9130
-52998224725,ano_8909,mes_1392,"Rua Augusta, 871",status_9985,score_5372
-60608761290,ano_7552,mes_3939,"Av Paulista, 947",status_5168,score_8731
-07370382257,ano_4062,mes_2175,"Rua Augusta, 208",status_6563,score_7500
-12345678909,ano_7517,mes_1185,"Av Paulista, 557",status_8942,score_7869
-55566677788,ano_7024,mes_7331,"Rua Augusta, 823",status_7185,score_5772
-52998224725,ano_6613,mes_5303,"Av Paulista, 357",status_3165,score_3136
-60608761290,ano_3818,mes_8575,"Rua das Flores, 627",status_1035,score_7921
-07370382257,ano_4393,mes_5534,"Rua Augusta, 116",status_3066,score_5474
-12345678909,ano_9509,mes_6704,"Rua da Consolação, 446",status_2404,score_8900
-55566677788,ano_5881,mes_6775,"Rua da Consolação, 137",status_9473,score_4775
-52998224725,ano_5180,mes_7927,"Av Paulista, 613",status_5643,score_1348
-60608761290,ano_5880,mes_7747,"Av Paulista, 726",status_3566,score_2438
-07370382257,ano_4795,mes_9699,"Av Brasil, 257",status_1416,score_5252
-12345678909,ano_2506,mes_8578,"Rua das Flores, 767",status_2948,score_2367
-55566677788,ano_5086,mes_1220,"Av Paulista, 488",status_6466,score_4074
-52998224725,ano_8140,mes_8578,"Rua das Flores, 226",status_1566,score_4581
-60608761290,ano_8160,mes_1286,"Av Brasil, 704",status_9482,score_5525
-07370382257,ano_3615,mes_1686,"Rua das Flores, 740",status_5416,score_4618
-12345678909,ano_7225,mes_6329,"Rua das Flores, 988",status_2229,score_7535
-55566677788,ano_6182,mes_5599,"Av Brasil, 822",status_1800,score_8314
-52998224725,ano_3345,mes_1780,"Av Brasil, 707",status_8696,score_8637
-60608761290,ano_3440,mes_9154,"Rua das Flores, 931",status_9124,score_2189
-07370382257,ano_6410,mes_5658,"Av Paulista, 487",status_5547,score_7179
-12345678909,ano_7591,mes_8030,"Rua Augusta, 328",status_6617,score_3166
-55566677788,ano_7651,mes_8594,"Rua da Consolação, 915",status_4657,score_5122
-52998224725,ano_7427,mes_8548,"Av Paulista, 126",status_7587,score_4361
-60608761290,ano_8739,mes_8719,"Rua Augusta, 617",status_2522,score_5081
-07370382257,ano_3889,mes_8782,"Rua das Flores, 262",status_3921,score_2832
-12345678909,ano_4886,mes_1519,"Rua Augusta, 915",status_5186,score_5599
-55566677788,ano_3840,mes_7148,"Rua da Consolação, 201",status_7597,score_1472
-52998224725,ano_2631,mes_8284,"Rua Augusta, 312",status_1923,score_2695
-60608761290,ano_7356,mes_6600,"Av Paulista, 375",status_7249,score_3709
-07370382257,ano_3036,mes_8281,"Av Paulista, 21",status_1373,score_8840
-12345678909,ano_1555,mes_6790,"Av Paulista, 49",status_7524,score_5601
-55566677788,ano_1319,mes_2303,"Rua Augusta, 570",status_6227,score_7649
-52998224725,ano_1166,mes_9970,"Rua Augusta, 954",status_2176,score_6184
-60608761290,ano_4963,mes_5614,"Rua das Flores, 778",status_7686,score_1253
-07370382257,ano_6022,mes_8756,"Av Paulista, 456",status_3736,score_7007
-12345678909,ano_9812,mes_4103,"Av Brasil, 853",status_4177,score_4584
-55566677788,ano_5607,mes_7033,"Av Paulista, 174",status_7890,score_3736
-52998224725,ano_4215,mes_4759,"Rua da Consolação, 633",status_9930,score_1279
-60608761290,ano_7522,mes_6583,"Av Brasil, 91",status_3732,score_4042
-07370382257,ano_5461,mes_6996,"Rua da Consolação, 649",status_2315,score_2173
-12345678909,ano_1247,mes_5401,"Rua da Consolação, 597",status_1467,score_7162
-55566677788,ano_7568,mes_8922,"Rua das Flores, 615",status_7754,score_1633
-52998224725,ano_3360,mes_3395,"Rua Augusta, 992",status_5941,score_8468
-60608761290,ano_9875,mes_6318,"Rua Augusta, 451",status_8506,score_4345
-07370382257,ano_3434,mes_5609,"Rua da Consolação, 950",status_1631,score_7340
-12345678909,ano_5074,mes_1232,"Av Brasil, 470",status_9887,score_6843
-55566677788,ano_3609,mes_8273,"Rua da Consolação, 339",status_6828,score_1134
-52998224725,ano_7719,mes_2801,"Rua Augusta, 672",status_2910,score_5343
-60608761290,ano_9595,mes_3821,"Rua Augusta, 843",status_5621,score_6520
-07370382257,ano_3579,mes_2851,"Av Brasil, 999",status_1857,score_8438
-12345678909,ano_3118,mes_9398,"Av Brasil, 445",status_4684,score_3526
-55566677788,ano_7549,mes_4234,"Av Paulista, 479",status_1099,score_5746
-52998224725,ano_2744,mes_6963,"Rua da Consolação, 330",status_6621,score_5623
-60608761290,ano_4155,mes_5458,"Av Paulista, 502",status_1240,score_4498
-07370382257,ano_3428,mes_6359,"Rua das Flores, 14",status_6294,score_8186
-12345678909,ano_7591,mes_4365,"Av Paulista, 914",status_6516,score_5598
-55566677788,ano_5024,mes_3217,"Av Brasil, 286",status_2881,score_6182
-52998224725,ano_6894,mes_5781,"Rua Augusta, 615",status_6461,score_8268
-60608761290,ano_2005,mes_6198,"Rua Augusta, 901",status_8982,score_6417
-07370382257,ano_1121,mes_1244,"Av Brasil, 495",status_9870,score_1590
-12345678909,ano_5108,mes_8471,"Rua Augusta, 765",status_3708,score_6982
-55566677788,ano_6329,mes_7310,"Rua das Flores, 427",status_1185,score_3268
-52998224725,ano_1212,mes_9181,"Rua das Flores, 21",status_9503,score_1141
-60608761290,ano_1301,mes_1115,"Rua Augusta, 485",status_7344,score_5634
-07370382257,ano_2106,mes_9438,"Rua Augusta, 827",status_7677,score_7547
-12345678909,ano_5552,mes_6165,"Rua Augusta, 815",status_1648,score_6468
-55566677788,ano_1178,mes_7666,"Rua da Consolação, 612",status_1581,score_4491
-52998224725,ano_1610,mes_9486,"Rua Augusta, 619",status_8364,score_3146
-60608761290,ano_2856,mes_1364,"Rua das Flores, 484",status_8577,score_2298
-07370382257,ano_4959,mes_3915,"Rua da Consolação, 488",status_3803,score_3885
-12345678909,ano_1570,mes_1733,"Rua da Consolação, 450",status_5154,score_7068
-55566677788,ano_8310,mes_6683,"Rua Augusta, 287",status_8439,score_4847
-52998224725,ano_5581,mes_4811,"Rua das Flores, 254",status_1123,score_1118
-60608761290,ano_2207,mes_4242,"Av Paulista, 62",status_2770,score_6403
-07370382257,ano_3905,mes_1531,"Av Brasil, 103",status_7729,score_9162
-12345678909,ano_4813,mes_6770,"Av Brasil, 896",status_7229,score_8803
-55566677788,ano_1916,mes_7226,"Av Brasil, 316",status_8732,score_8917
-52998224725,ano_7917,mes_8481,"Av Brasil, 9",status_3544,score_2151
-60608761290,ano_8340,mes_5955,"Rua da Consolação, 592",status_4438,score_9434
-07370382257,ano_1573,mes_7904,"Rua Augusta, 897",status_8564,score_3932
-12345678909,ano_2899,mes_5623,"Av Paulista, 908",status_3494,score_3207
-55566677788,ano_2845,mes_8739,"Rua das Flores, 804",status_6578,score_8316
-52998224725,ano_8010,mes_7093,"Av Paulista, 656",status_3299,score_4470
-60608761290,ano_9898,mes_8123,"Rua da Consolação, 857",status_2446,score_9771
-07370382257,ano_3890,mes_3425,"Av Brasil, 59",status_4755,score_8302
-12345678909,ano_2821,mes_4608,"Rua da Consolação, 475",status_4169,score_6535
-55566677788,ano_7314,mes_5503,"Av Paulista, 821",status_6192,score_2953
-52998224725,ano_9255,mes_1990,"Rua Augusta, 531",status_7827,score_7908
-60608761290,ano_2403,mes_6559,"Av Brasil, 929",status_9659,score_3478
-07370382257,ano_5647,mes_5720,"Rua das Flores, 20",status_1075,score_2631
-12345678909,ano_3422,mes_2531,"Rua das Flores, 668",status_9242,score_1408
-55566677788,ano_7823,mes_7782,"Rua das Flores, 426",status_2552,score_2691
-52998224725,ano_4539,mes_8204,"Av Paulista, 261",status_1009,score_2702
-60608761290,ano_3470,mes_7822,"Av Brasil, 385",status_7936,score_6026
-07370382257,ano_6885,mes_9521,"Av Paulista, 431",status_7043,score_8570
-12345678909,ano_4748,mes_5786,"Rua da Consolação, 250",status_1487,score_3571
-55566677788,ano_4563,mes_4983,"Av Brasil, 136",status_5891,score_8894
-52998224725,ano_6256,mes_3532,"Rua da Consolação, 258",status_5581,score_2014
-60608761290,ano_8288,mes_7588,"Av Brasil, 88",status_3603,score_6054
-07370382257,ano_7131,mes_5070,"Av Brasil, 983",status_6256,score_6866
-12345678909,ano_9127,mes_4982,"Av Brasil, 713",status_1765,score_8223
-55566677788,ano_6609,mes_1904,"Rua Augusta, 233",status_8105,score_9977
-52998224725,ano_7152,mes_4844,"Rua da Consolação, 49",status_9314,score_9938
-60608761290,ano_1665,mes_7442,"Rua das Flores, 762",status_2514,score_5710
-07370382257,ano_2248,mes_6989,"Av Brasil, 613",status_9174,score_4916
-12345678909,ano_5208,mes_9314,"Rua da Consolação, 762",status_3047,score_8823
-55566677788,ano_1397,mes_2484,"Av Brasil, 598",status_1399,score_6609
-52998224725,ano_7753,mes_5666,"Av Paulista, 643",status_1943,score_5314
-60608761290,ano_9283,mes_1724,"Rua da Consolação, 481",status_9698,score_1360
-07370382257,ano_4743,mes_5712,"Rua das Flores, 80",status_6260,score_3652
-12345678909,ano_6533,mes_7178,"Rua da Consolação, 326",status_8563,score_9832
-55566677788,ano_5188,mes_1871,"Rua das Flores, 676",status_4847,score_3426
-52998224725,ano_5396,mes_4828,"Av Paulista, 593",status_5281,score_4504
-60608761290,ano_5321,mes_2461,"Av Brasil, 749",status_7521,score_5929
-07370382257,ano_2439,mes_9260,"Rua das Flores, 106",status_4413,score_3196
-12345678909,ano_3810,mes_6904,"Rua das Flores, 388",status_5327,score_9700
-55566677788,ano_3597,mes_6405,"Av Paulista, 416",status_8231,score_3083
-52998224725,ano_4856,mes_9535,"Av Paulista, 31",status_7530,score_8988
-60608761290,ano_1877,mes_3817,"Rua das Flores, 157",status_7085,score_6554
+ano,documento_ref,valor
+ano_6317,52998224725,valor_3133
+ano_9804,62597761525,valor_8721
+ano_5185,07370382257,valor_3528
+ano_6296,52998224725,valor_7614
+ano_7861,62597761525,valor_5067
+ano_5523,07370382257,valor_5543
+ano_1378,52998224725,valor_3405
+ano_9287,62597761525,valor_7182
+ano_6192,07370382257,valor_8254
+ano_4088,52998224725,valor_3360
+ano_8340,62597761525,valor_2021
+ano_5565,07370382257,valor_6606
+ano_8947,52998224725,valor_5957
+ano_3772,62597761525,valor_9318
+ano_9861,07370382257,valor_2468
+ano_8701,52998224725,valor_7775
+ano_1736,62597761525,valor_7738
+ano_9128,07370382257,valor_2972
+ano_3206,52998224725,valor_1778
+ano_7068,62597761525,valor_8340
+ano_3145,07370382257,valor_1084
+ano_7616,52998224725,valor_3858
+ano_2562,62597761525,valor_6029
+ano_2950,07370382257,valor_4950
+ano_6196,52998224725,valor_8878
+ano_4403,62597761525,valor_2299
+ano_3560,07370382257,valor_3360
+ano_8848,52998224725,valor_9238
+ano_3494,62597761525,valor_4077
+ano_9326,07370382257,valor_3863
+ano_7973,52998224725,valor_3368
+ano_1774,62597761525,valor_7103
+ano_1185,07370382257,valor_9149
+ano_5047,52998224725,valor_6821
+ano_7730,62597761525,valor_7430
+ano_8588,07370382257,valor_5016
+ano_5733,52998224725,valor_1841
+ano_3872,62597761525,valor_1699
+ano_1867,07370382257,valor_9776
+ano_1414,52998224725,valor_7719
+ano_5119,62597761525,valor_8073
+ano_3693,07370382257,valor_4887
+ano_6853,52998224725,valor_3621
+ano_6252,62597761525,valor_2619
+ano_3983,07370382257,valor_7032
+ano_8867,52998224725,valor_1881
+ano_5326,62597761525,valor_1450
+ano_2780,07370382257,valor_8853
+ano_2034,52998224725,valor_5811
+ano_4410,62597761525,valor_3737
+ano_8297,07370382257,valor_1195
+ano_2931,52998224725,valor_2467
+ano_3686,62597761525,valor_5640
+ano_7931,07370382257,valor_7924
+ano_8318,52998224725,valor_3449
+ano_3858,62597761525,valor_7578
+ano_8785,07370382257,valor_6564
+ano_5582,52998224725,valor_8951
+ano_5532,62597761525,valor_3663
+ano_2251,07370382257,valor_2079
+ano_2866,52998224725,valor_5502
+ano_2156,62597761525,valor_8195
+ano_5900,07370382257,valor_2857
+ano_1410,52998224725,valor_4096
+ano_4885,62597761525,valor_2111
+ano_2891,07370382257,valor_3140
+ano_7060,52998224725,valor_9754
+ano_6356,62597761525,valor_4199
+ano_5311,07370382257,valor_7440
+ano_4802,52998224725,valor_8824
+ano_2009,62597761525,valor_9484
+ano_8838,07370382257,valor_9537
+ano_7915,52998224725,valor_2722
+ano_6564,62597761525,valor_2472
+ano_5186,07370382257,valor_2497
+ano_8829,52998224725,valor_6460
+ano_1572,62597761525,valor_9148
+ano_9395,07370382257,valor_8960
+ano_4761,52998224725,valor_6865
+ano_5872,62597761525,valor_5699
+ano_2263,07370382257,valor_8696
+ano_3595,52998224725,valor_9385
+ano_5831,62597761525,valor_9798
+ano_6326,07370382257,valor_2046
+ano_5537,52998224725,valor_9990
+ano_3798,62597761525,valor_3539
+ano_9510,07370382257,valor_2555
+ano_6923,52998224725,valor_7916
+ano_2383,62597761525,valor_3977
+ano_7487,07370382257,valor_8965
+ano_1250,52998224725,valor_5409
+ano_7140,62597761525,valor_2317
+ano_9197,07370382257,valor_6762
+ano_7001,52998224725,valor_1776
+ano_2168,62597761525,valor_3523
+ano_4359,07370382257,valor_5215
+ano_3985,52998224725,valor_8789
+ano_3383,62597761525,valor_6451
+ano_6182,07370382257,valor_4212
+ano_2738,52998224725,valor_7361
+ano_4590,62597761525,valor_3609
+ano_7189,07370382257,valor_9465
+ano_8883,52998224725,valor_5408
+ano_1466,62597761525,valor_3801
+ano_2927,07370382257,valor_9809
+ano_3800,52998224725,valor_6901
+ano_8716,62597761525,valor_6302
+ano_5316,07370382257,valor_3615
+ano_6490,52998224725,valor_7862
+ano_1268,62597761525,valor_9399
+ano_4359,07370382257,valor_1299
+ano_5819,52998224725,valor_9339
+ano_2226,62597761525,valor_1475
+ano_7394,07370382257,valor_1000
+ano_5302,52998224725,valor_4883
+ano_6569,62597761525,valor_6617
+ano_9174,07370382257,valor_8903
+ano_9279,52998224725,valor_3203
+ano_7381,62597761525,valor_8443
+ano_9270,07370382257,valor_7048
+ano_2532,52998224725,valor_9673
+ano_7451,62597761525,valor_6251
+ano_4077,07370382257,valor_8921
+ano_4868,52998224725,valor_5931
+ano_1736,62597761525,valor_6866
+ano_4150,07370382257,valor_6792
+ano_5030,52998224725,valor_1121
+ano_5433,62597761525,valor_1792
+ano_5291,07370382257,valor_4487
+ano_8255,52998224725,valor_4428
+ano_7133,62597761525,valor_1757
+ano_1706,07370382257,valor_9048
+ano_3529,52998224725,valor_9303
+ano_2579,62597761525,valor_9961
+ano_2745,07370382257,valor_2225
+ano_6672,52998224725,valor_5337
+ano_6624,62597761525,valor_4067
+ano_6453,07370382257,valor_1289
+ano_2816,52998224725,valor_5569
+ano_8528,62597761525,valor_5300
+ano_5511,07370382257,valor_3408
+ano_8580,52998224725,valor_7981
+ano_9836,62597761525,valor_2100
+ano_9100,07370382257,valor_5562
+ano_9553,52998224725,valor_6537
+ano_1720,62597761525,valor_2850
+ano_5807,07370382257,valor_6515
+ano_9721,52998224725,valor_9702
+ano_9665,62597761525,valor_1111
+ano_2605,07370382257,valor_9884
+ano_3177,52998224725,valor_4567
+ano_8868,62597761525,valor_2799
+ano_6251,07370382257,valor_8148
+ano_3397,52998224725,valor_7109
+ano_4821,62597761525,valor_9382
+ano_7102,07370382257,valor_8056
+ano_4385,52998224725,valor_6982
+ano_2120,62597761525,valor_2966
+ano_5607,07370382257,valor_3019
+ano_5337,52998224725,valor_9338
+ano_9409,62597761525,valor_9218
+ano_1174,07370382257,valor_3731
+ano_7705,52998224725,valor_8355
+ano_3245,62597761525,valor_1429
+ano_2493,07370382257,valor_5714
+ano_3865,52998224725,valor_2243
+ano_1172,62597761525,valor_3074
+ano_9654,07370382257,valor_6440
+ano_8371,52998224725,valor_3058
+ano_8381,62597761525,valor_6746
+ano_2520,07370382257,valor_5237
+ano_6628,52998224725,valor_3327
+ano_4689,62597761525,valor_3145
+ano_3035,07370382257,valor_3468
+ano_1684,52998224725,valor_3875
+ano_1821,62597761525,valor_8261
+ano_8756,07370382257,valor_3576
+ano_3780,52998224725,valor_6881
+ano_7382,62597761525,valor_2197
+ano_5377,07370382257,valor_5973
+ano_5455,52998224725,valor_6259
+ano_9910,62597761525,valor_9744
+ano_6763,07370382257,valor_3594
+ano_1362,52998224725,valor_4995
+ano_9309,62597761525,valor_3491
+ano_7613,07370382257,valor_8080
+ano_4233,52998224725,valor_8499
+ano_1445,62597761525,valor_3649
+ano_8422,07370382257,valor_6080
+ano_7045,52998224725,valor_6033
+ano_7487,62597761525,valor_2224
+ano_6186,07370382257,valor_6788
+ano_6395,52998224725,valor_2016
+ano_7583,62597761525,valor_8417
+ano_8240,07370382257,valor_7447
+ano_6528,52998224725,valor_3713
+ano_9288,62597761525,valor_4072
+ano_2513,07370382257,valor_5245
+ano_8482,52998224725,valor_5201
+ano_2696,62597761525,valor_4605
+ano_4711,07370382257,valor_3333
+ano_1934,52998224725,valor_6678
+ano_6380,62597761525,valor_1495
+ano_8064,07370382257,valor_2736
+ano_3295,52998224725,valor_8841
+ano_7122,62597761525,valor_4834
+ano_4435,07370382257,valor_7364
+ano_2382,52998224725,valor_8164
+ano_7133,62597761525,valor_9771
+ano_1338,07370382257,valor_5952
+ano_5430,52998224725,valor_9593
+ano_7829,62597761525,valor_2773
+ano_4737,07370382257,valor_1801
+ano_3353,52998224725,valor_7580
+ano_4137,62597761525,valor_1342
+ano_3910,07370382257,valor_8424
+ano_9232,52998224725,valor_2450
+ano_2501,62597761525,valor_3690
+ano_2934,07370382257,valor_5166
+ano_3996,52998224725,valor_7011
+ano_8853,62597761525,valor_9022
+ano_5912,07370382257,valor_8152
+ano_4387,52998224725,valor_2719
+ano_2112,62597761525,valor_2949
+ano_6900,07370382257,valor_8864
+ano_6832,52998224725,valor_7409
+ano_3441,62597761525,valor_9626
+ano_3575,07370382257,valor_7630
+ano_9555,52998224725,valor_2922
+ano_4482,62597761525,valor_3085
+ano_4485,07370382257,valor_5275
+ano_8053,52998224725,valor_6987
+ano_1063,62597761525,valor_5331
+ano_9712,07370382257,valor_7669
+ano_6591,52998224725,valor_9573
+ano_9689,62597761525,valor_2647
+ano_4210,07370382257,valor_8871
+ano_1320,52998224725,valor_5902
+ano_1182,62597761525,valor_8525
+ano_9688,07370382257,valor_9749
